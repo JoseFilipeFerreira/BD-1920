@@ -1,0 +1,886 @@
+id_artigo,titulo,tipo,preco,ano,classificacao,descricao,id_artigo,plataforma,idade_min,publisher,n_jogadores_max,genero
+120,"Catherine Classic",Jogo,42.20,2019,5,NULL,120,Win,18,Sega,1,Puzzle-platform
+121,"Hitman HD Enhanced Collection",Jogo,18.80,2019,6,NULL,121,PS4,18,"Warner Bros. Interactive Entertainment",2,Stealth
+122,"Hitman HD Enhanced Collection",Jogo,18.80,2019,3,NULL,122,XBO,18,"Warner Bros. Interactive Entertainment",2,Stealth
+123,"Mario & Luigi: Bowser’s Inside Story + Bowser Jr.’s Journey",Jogo,28.80,2019,3,NULL,123,3DS,16,Nintendo,4,Role-playing
+124,"New Super Mario Bros. U Deluxe",Jogo,38.50,2019,6,NULL,124,NS,15,Nintendo,1,Platformer
+125,"Tales of Vesperia: Definitive Edition",Jogo,35.50,2019,6,NULL,125,Win,17,"Bandai Namco Entertainment",1,Role-playing
+126,"Tales of Vesperia: Definitive Edition",Jogo,35.50,2019,5,NULL,126,NS,17,"Bandai Namco Entertainment",1,Role-playing
+127,"Tales of Vesperia: Definitive Edition",Jogo,35.50,2019,6,NULL,127,PS4,17,"Bandai Namco Entertainment",1,Role-playing
+128,"Tales of Vesperia: Definitive Edition",Jogo,35.50,2019,5,NULL,128,Win,17,"Bandai Namco Entertainment",1,Role-playing
+129,"Bright Memory",Jogo,40.50,2019,4,NULL,129,Win,17,"FYQD Personal Studio",3,"First-person shooter"
+130,"Asdivine Hearts 2",Jogo,39.20,2019,6,NULL,130,PS4,14,Kemco,3,Role-playing
+131,"Asdivine Hearts 2",Jogo,39.20,2019,4,NULL,131,PSVita,14,Kemco,3,Role-playing
+132,"Onimusha: Warlords",Jogo,34.00,2019,5,NULL,132,Win,13,Capcom,1,"Action-adventure, hack and slash"
+133,"Onimusha: Warlords",Jogo,34.00,2019,5,NULL,133,NS,13,Capcom,1,"Action-adventure, hack and slash"
+134,"Onimusha: Warlords",Jogo,34.00,2019,5,NULL,134,PS4,13,Capcom,1,"Action-adventure, hack and slash"
+135,"Onimusha: Warlords",Jogo,34.00,2019,4,NULL,135,Win,13,Capcom,1,"Action-adventure, hack and slash"
+136,Vane,Jogo,29.40,2019,3,NULL,136,PS4,16,"Friend & Foe",3,Adventure
+137,"The Walking Dead: The Final Season – Episode 3: Broken Toys",Jogo,40.10,2019,5,NULL,137,Win,15,"Skybound Entertainment",3,"Graphic adventure"
+138,"The Walking Dead: The Final Season – Episode 3: Broken Toys",Jogo,40.10,2019,5,NULL,138,NS,15,"Skybound Entertainment",3,"Graphic adventure"
+139,"The Walking Dead: The Final Season – Episode 3: Broken Toys",Jogo,40.10,2019,3,NULL,139,PS4,15,"Skybound Entertainment",3,"Graphic adventure"
+140,"The Walking Dead: The Final Season – Episode 3: Broken Toys",Jogo,40.10,2019,6,NULL,140,Win,15,"Skybound Entertainment",3,"Graphic adventure"
+141,"Yakuza 4[A]",Jogo,39.20,2019,4,NULL,141,PS4,17,Sega,2,Action-adventure
+142,"YIIK: A Postmodern RPG",Jogo,31.40,2019,4,NULL,142,Win,13,"Ysbryd Games",3,Role-playing
+143,"Ace Combat 7: Skies Unknown",Jogo,49.90,2019,3,NULL,143,PS4,13,"Bandai Namco Entertainment",3,"Combat flight simulator"
+144,"Ace Combat 7: Skies Unknown",Jogo,49.90,2019,5,NULL,144,XBO,13,"Bandai Namco Entertainment",3,"Combat flight simulator"
+145,"Alvastia Chronicles",Jogo,37.60,2019,4,NULL,145,Win,17,Kemco,2,Role-playing
+146,"Alvastia Chronicles",Jogo,37.60,2019,4,NULL,146,XBO,17,Kemco,2,Role-playing
+147,"Travis Strikes Again: No More Heroes",Jogo,29.10,2019,4,NULL,147,NS,14,"Grasshopper Manufacture",4,Action-adventure
+148,Chaos;Child[B],Jogo,31.10,2019,4,NULL,148,Win,17,"Spike Chunsoft",3,"Visual novel"
+149,"The Raven Remastered",Jogo,34.90,2019,3,NULL,149,NS,14,"THQ Nordic",2,"Point-and-click adventure"
+150,"Senran Kagura Burst Re:Newal",Jogo,41.50,2019,5,NULL,150,Win,16,"Xseed Games",3,Action
+151,"Senran Kagura Burst Re:Newal",Jogo,41.50,2019,5,NULL,151,PS4,16,"Xseed Games",3,Action
+152,"At the Gates",Jogo,43.20,2019,5,NULL,152,Win,13,"Conifer Games",1,4X
+153,"At the Gates",Jogo,43.20,2019,4,NULL,153,Win,13,"Conifer Games",1,strategy
+154,"Slay the Spire",Jogo,42.70,2019,4,NULL,154,Win,17,"Humble Bundle",4,Roguelike
+155,"Slay the Spire",Jogo,42.70,2019,4,NULL,155,Mac,17,"Humble Bundle",4,Roguelike
+156,"Slay the Spire",Jogo,42.70,2019,4,NULL,156,Lin,17,"Humble Bundle",4,Roguelike
+157,"Battlefleet Gothic: Armada 2",Jogo,21.10,2019,3,NULL,157,Win,15,"Focus Home Interactive",2,"Strategy, real-time tactics"
+158,"Life Is Strange 2 – Episode 2: Rules",Jogo,36.30,2019,3,NULL,158,Win,18,"Square Enix",1,"Graphic adventure"
+159,"Life Is Strange 2 – Episode 2: Rules",Jogo,36.30,2019,6,NULL,159,PS4,18,"Square Enix",1,"Graphic adventure"
+160,"Life Is Strange 2 – Episode 2: Rules",Jogo,36.30,2019,3,NULL,160,XBO,18,"Square Enix",1,"Graphic adventure"
+161,"My Memory of Us",Jogo,30.30,2019,6,NULL,161,NS,18,"Crunching Koalas",3,"Graphic adventure, platform"
+162,Pikuniku,Jogo,34.10,2019,3,NULL,162,Win,17,"Devolver Digital",4,Platformer
+163,Pikuniku,Jogo,34.10,2019,5,NULL,163,NS,17,"Devolver Digital",4,Platformer
+164,Pikuniku,Jogo,34.10,2019,4,NULL,164,Win,17,"Devolver Digital",4,puzzle
+165,Pikuniku,Jogo,34.10,2019,3,NULL,165,NS,17,"Devolver Digital",4,puzzle
+166,"Resident Evil 2",Jogo,33.00,2019,3,NULL,166,Win,13,Capcom,2,"Survival horror"
+167,"Resident Evil 2",Jogo,33.00,2019,4,NULL,167,PS4,13,Capcom,2,"Survival horror"
+168,"Resident Evil 2",Jogo,33.00,2019,3,NULL,168,XBO,13,Capcom,2,"Survival horror"
+169,"Kingdom Hearts III",Jogo,24.80,2019,5,NULL,169,PS4,16,"Square Enix",3,"Action role-playing"
+170,"Kingdom Hearts III",Jogo,24.80,2019,5,NULL,170,XBO,16,"Square Enix",3,"Action role-playing"
+171,"Penguin Wars",Jogo,18.50,2019,4,NULL,171,PS4,13,"Dispatch Games",4,Arcade
+172,"Sphinx and the Cursed Mummy",Jogo,43.40,2019,6,NULL,172,NS,14,"THQ Nordic",2,Action-adventure
+173,"Dragon Marked For Death",Jogo,34.80,2019,4,NULL,173,NS,17,"Inti Creates",1,Role-playing
+174,"Piczle Colors",Jogo,37.80,2019,5,NULL,174,NS,16,"Rainy Frog",3,Puzzle
+175,"Planetarian: The Reverie of a Little Planet",Jogo,26.60,2019,5,NULL,175,NS,14,Prototype,4,"Visual novel"
+176,"Robotics;Notes DaSH[A]",Jogo,47.90,2019,4,NULL,176,NS,14,"Spike Chunsoft",1,"Visual novel"
+177,"Robotics;Notes DaSH[A]",Jogo,47.90,2019,3,NULL,177,PS4,14,"Spike Chunsoft",1,"Visual novel"
+178,"Robotics;Notes Elite HD[A]",Jogo,23.50,2019,6,NULL,178,NS,18,"Spike Chunsoft",3,"Visual novel"
+179,"Robotics;Notes Elite HD[A]",Jogo,23.50,2019,6,NULL,179,PS4,18,"Spike Chunsoft",3,"Visual novel"
+180,"Sunless Skies",Jogo,45.30,2019,4,NULL,180,Win,17,"Failbetter Games",4,Role-playing
+181,"Sunless Skies",Jogo,45.30,2019,5,NULL,181,Mac,17,"Failbetter Games",4,Role-playing
+182,"Sunless Skies",Jogo,45.30,2019,6,NULL,182,Lin,17,"Failbetter Games",4,Role-playing
+183,Wargroove,Jogo,30.00,2019,5,NULL,183,Win,15,Chucklefish,2,"Turn-based tactics"
+184,Wargroove,Jogo,30.00,2019,5,NULL,184,NS,15,Chucklefish,2,"Turn-based tactics"
+185,Wargroove,Jogo,30.00,2019,4,NULL,185,XBO,15,Chucklefish,2,"Turn-based tactics"
+186,"Apex Legends",Jogo,25.90,2019,4,NULL,186,Win,15,"Electronic Arts",2,"Battle royale, first-person shooter"
+187,"Apex Legends",Jogo,25.90,2019,4,NULL,187,PS4,15,"Electronic Arts",2,"Battle royale, first-person shooter"
+188,"Apex Legends",Jogo,25.90,2019,5,NULL,188,XBO,15,"Electronic Arts",2,"Battle royale, first-person shooter"
+189,"The Book of Unwritten Tales 2",Jogo,39.90,2019,3,NULL,189,NS,16,"THQ Nordic",4,"Point-and-click adventure"
+190,"Etrian Odyssey Nexus[B]",Jogo,18.60,2019,3,NULL,190,3DS,16,Atlus,1,"Role-playing, dungeon crawler"
+191,"V-Rally 4",Jogo,33.20,2019,4,NULL,191,NS,16,"Bigben Interactive",1,Racing
+192,"BlazBlue: Central Fiction",Jogo,27.90,2019,4,NULL,192,NS,17,"Arc System Works",1,Fighting
+193,"God Eater 3[B]",Jogo,36.50,2019,6,NULL,193,Win,16,"Bandai Namco Entertainment",1,"Action role-playing"
+194,"God Eater 3[B]",Jogo,36.50,2019,3,NULL,194,PS4,16,"Bandai Namco Entertainment",1,"Action role-playing"
+195,"Monster Energy Supercross - The Official Videogame 2",Jogo,33.10,2019,5,NULL,195,Win,18,"Milestone srl",1,Racing
+196,"Monster Energy Supercross - The Official Videogame 2",Jogo,33.10,2019,6,NULL,196,NS,18,"Milestone srl",1,Racing
+197,"Monster Energy Supercross - The Official Videogame 2",Jogo,33.10,2019,3,NULL,197,PS4,18,"Milestone srl",1,Racing
+198,"Monster Energy Supercross - The Official Videogame 2",Jogo,33.10,2019,5,NULL,198,Win,18,"Milestone srl",1,Racing
+199,"Space Engineers",Jogo,42.30,2019,4,NULL,199,Win,16,"Keen Software House",3,Simulation
+200,Conarium,Jogo,28.70,2019,4,NULL,200,PS4,13,"Iceberg Interactive",4,Adventure
+201,Conarium,Jogo,28.70,2019,4,NULL,201,XBO,13,"Iceberg Interactive",4,Adventure
+202,"The Liar Princess and the Blind Prince[B]",Jogo,21.70,2019,6,NULL,202,NS,18,"Nippon Ichi Software",4,Action-adventure
+203,"The Liar Princess and the Blind Prince[B]",Jogo,21.70,2019,5,NULL,203,PS4,18,"Nippon Ichi Software",4,Action-adventure
+204,"Final Fantasy IX",Jogo,25.30,2019,4,NULL,204,NS,13,"Square Enix",2,Role-playing
+205,"Final Fantasy IX",Jogo,25.30,2019,3,NULL,205,XBO,13,"Square Enix",2,Role-playing
+206,"Tetris 99",Jogo,32.50,2019,5,NULL,206,NS,14,Nintendo,4,"Puzzle, battle royale"
+207,"Crackdown 3",Jogo,43.30,2019,5,NULL,207,Win,13,"Xbox Game Studios",2,Action-adventure
+208,"Crackdown 3",Jogo,43.30,2019,4,NULL,208,XBO,13,"Xbox Game Studios",2,Action-adventure
+209,"DreamWorks Dragons Dawn of New Riders",Jogo,35.70,2019,3,NULL,209,Win,13,"Outright Games",4,Action-adventure
+210,"DreamWorks Dragons Dawn of New Riders",Jogo,35.70,2019,4,NULL,210,NS,13,"Outright Games",4,Action-adventure
+211,"DreamWorks Dragons Dawn of New Riders",Jogo,35.70,2019,5,NULL,211,PS4,13,"Outright Games",4,Action-adventure
+212,"DreamWorks Dragons Dawn of New Riders",Jogo,35.70,2019,4,NULL,212,Win,13,"Outright Games",4,Action-adventure
+213,"Far Cry New Dawn",Jogo,16.40,2019,6,NULL,213,Win,15,Ubisoft,1,"First-person shooter"
+214,"Far Cry New Dawn",Jogo,16.40,2019,3,NULL,214,PS4,15,Ubisoft,1,"First-person shooter"
+215,"Far Cry New Dawn",Jogo,16.40,2019,5,NULL,215,XBO,15,Ubisoft,1,"First-person shooter"
+216,"Jump Force",Jogo,29.70,2019,5,NULL,216,Win,16,"Bandai Namco Entertainment",4,Fighting
+217,"Jump Force",Jogo,29.70,2019,5,NULL,217,PS4,16,"Bandai Namco Entertainment",4,Fighting
+218,"Jump Force",Jogo,29.70,2019,5,NULL,218,XBO,16,"Bandai Namco Entertainment",4,Fighting
+219,"Metro Exodus",Jogo,38.20,2019,4,NULL,219,Win,14,"Deep Silver",1,"First-person shooter"
+220,"Metro Exodus",Jogo,38.20,2019,4,NULL,220,PS4,14,"Deep Silver",1,"First-person shooter"
+221,"Metro Exodus",Jogo,38.20,2019,5,NULL,221,XBO,14,"Deep Silver",1,"First-person shooter"
+222,"8-bit ADV Steins;Gate[B]",Jogo,45.10,2019,4,NULL,222,NS,13,"Spike Chunsoft",3,"Visual novel"
+223,"Death end re;Quest[B]",Jogo,45.30,2019,4,NULL,223,PS4,16,"Idea Factory",2,Role-playing
+224,"Steins;Gate Elite[B]",Jogo,49.10,2019,4,NULL,224,Win,17,"Spike Chunsoft",2,"Visual novel"
+225,"Steins;Gate Elite[B]",Jogo,49.10,2019,6,NULL,225,NS,17,"Spike Chunsoft",2,"Visual novel"
+226,"Steins;Gate Elite[B]",Jogo,49.10,2019,5,NULL,226,PS4,17,"Spike Chunsoft",2,"Visual novel"
+227,"Steins;Gate: Linear Bounded Phenogram[B]",Jogo,49.10,2019,4,NULL,227,Win,18,"Spike Chunsoft",4,"Visual novel"
+228,"Steins;Gate: Linear Bounded Phenogram[B]",Jogo,49.10,2019,6,NULL,228,PS4,18,"Spike Chunsoft",4,"Visual novel"
+229,"Yakuza Kiwami",Jogo,24.70,2019,5,NULL,229,Win,17,Sega,4,Action-adventure
+230,"Aragami: Shadow Edition",Jogo,17.20,2019,5,NULL,230,NS,14,"Lince Works",4,Action-adventure
+231,"Phoenix Wright: Ace Attorney Trilogy[A]",Jogo,42.50,2019,5,NULL,231,NS,17,Capcom,4,"Adventure, visual novel"
+232,"Phoenix Wright: Ace Attorney Trilogy[A]",Jogo,42.50,2019,5,NULL,232,PS4,17,Capcom,4,"Adventure, visual novel"
+233,"Phoenix Wright: Ace Attorney Trilogy[A]",Jogo,42.50,2019,4,NULL,233,XBO,17,Capcom,4,"Adventure, visual novel"
+234,Anthem,Jogo,46.50,2019,5,NULL,234,Win,17,"Electronic Arts",1,"Action role-playing"
+235,Anthem,Jogo,46.50,2019,4,NULL,235,PS4,17,"Electronic Arts",1,"Action role-playing"
+236,Anthem,Jogo,46.50,2019,4,NULL,236,XBO,17,"Electronic Arts",1,"Action role-playing"
+237,"Dirt Rally 2.0",Jogo,40.10,2019,6,NULL,237,Win,16,Codemasters,3,Racing
+238,"Dirt Rally 2.0",Jogo,40.10,2019,4,NULL,238,PS4,16,Codemasters,3,Racing
+239,"Dirt Rally 2.0",Jogo,40.10,2019,4,NULL,239,XBO,16,Codemasters,3,Racing
+240,"The Lego Movie 2 Videogame",Jogo,22.20,2019,5,NULL,240,Win,16,"Warner Bros. Interactive Entertainment",1,Action-adventure
+241,"The Lego Movie 2 Videogame",Jogo,22.20,2019,4,NULL,241,NS,16,"Warner Bros. Interactive Entertainment",1,Action-adventure
+242,"The Lego Movie 2 Videogame",Jogo,22.20,2019,5,NULL,242,PS4,16,"Warner Bros. Interactive Entertainment",1,Action-adventure
+243,"The Lego Movie 2 Videogame",Jogo,22.20,2019,3,NULL,243,Win,16,"Warner Bros. Interactive Entertainment",1,Action-adventure
+244,"Stellaris: Console Edition",Jogo,27.10,2019,4,NULL,244,PS4,13,"Paradox Interactive",1,"Grand strategy"
+245,"Stellaris: Console Edition",Jogo,27.10,2019,5,NULL,245,XBO,13,"Paradox Interactive",1,"Grand strategy"
+246,"Trials Rising",Jogo,27.10,2019,5,NULL,246,Win,17,Ubisoft,4,Racing
+247,"Trials Rising",Jogo,27.10,2019,6,NULL,247,NS,17,Ubisoft,4,Racing
+248,"Trials Rising",Jogo,27.10,2019,5,NULL,248,PS4,17,Ubisoft,4,Racing
+249,"Trials Rising",Jogo,27.10,2019,5,NULL,249,Win,17,Ubisoft,4,Racing
+250,"Trials Rising",Jogo,27.10,2019,6,NULL,250,Win,17,Ubisoft,4,platform
+251,"Trials Rising",Jogo,27.10,2019,5,NULL,251,NS,17,Ubisoft,4,platform
+252,"Trials Rising",Jogo,27.10,2019,6,NULL,252,PS4,17,Ubisoft,4,platform
+253,"Trials Rising",Jogo,27.10,2019,4,NULL,253,Win,17,Ubisoft,4,platform
+254,"Dies irae: Interview with Kaziklu Bey[B]",Jogo,24.30,2019,4,NULL,254,Win,16,Light,3,"Visual novel"
+255,"Dead or Alive 6",Jogo,21.70,2019,6,NULL,255,Win,13,"Koei Tecmo",1,Fighting
+256,"Dead or Alive 6",Jogo,21.70,2019,6,NULL,256,PS4,13,"Koei Tecmo",1,Fighting
+257,"Dead or Alive 6",Jogo,21.70,2019,5,NULL,257,XBO,13,"Koei Tecmo",1,Fighting
+258,"Swords and Soldiers 2 Shawarmageddon",Jogo,24.90,2019,5,NULL,258,NS,14,"Ronimo Games",1,Strategy
+259,"ToeJam & Earl: Back in the Groove",Jogo,48.30,2019,4,NULL,259,PS4,13,"HumaNature Studios",3,"Action platformer"
+260,"Left Alive",Jogo,37.10,2019,5,NULL,260,Win,14,"Square Enix",1,Action-adventure
+261,"Left Alive",Jogo,37.10,2019,5,NULL,261,PS4,14,"Square Enix",1,Action-adventure
+262,"The Occupation",Jogo,22.40,2019,5,NULL,262,Win,15,"Humble Bundle",4,Stealth
+263,"The Occupation",Jogo,22.40,2019,5,NULL,263,PS4,15,"Humble Bundle",4,Stealth
+264,"The Occupation",Jogo,22.40,2019,4,NULL,264,XBO,15,"Humble Bundle",4,Stealth
+265,"R.B.I. Baseball 19",Jogo,24.30,2019,5,NULL,265,NS,18,"MLB Advanced Media",2,Sports
+266,"R.B.I. Baseball 19",Jogo,24.30,2019,4,NULL,266,PS4,18,"MLB Advanced Media",2,Sports
+267,"R.B.I. Baseball 19",Jogo,24.30,2019,4,NULL,267,XBO,18,"MLB Advanced Media",2,Sports
+268,Overload,Jogo,32.60,2019,5,NULL,268,XBO,16,"Revival Productions",4,"First-person shooter, shoot ’em up"
+269,"Flowers: Les Quatre Saisons[A]",Jogo,44.50,2019,4,NULL,269,PS4,15,Prototype,4,"Visual novel"
+270,"Devil May Cry 5",Jogo,49.40,2019,5,NULL,270,Win,18,Capcom,3,"Action-adventure, hack and slash"
+271,"Devil May Cry 5",Jogo,49.40,2019,5,NULL,271,PS4,18,Capcom,3,"Action-adventure, hack and slash"
+272,"Devil May Cry 5",Jogo,49.40,2019,3,NULL,272,XBO,18,Capcom,3,"Action-adventure, hack and slash"
+273,"Kirby’s Extra Epic Yarn",Jogo,18.80,2019,4,NULL,273,3DS,17,Nintendo,3,Platforming
+274,"The Caligula Effect: Overdose[B]",Jogo,21.00,2019,4,NULL,274,Win,16,"NIS America",3,Role-playing
+275,"The Caligula Effect: Overdose[B]",Jogo,21.00,2019,6,NULL,275,NS,16,"NIS America",3,Role-playing
+276,"The Caligula Effect: Overdose[B]",Jogo,21.00,2019,5,NULL,276,PS4,16,"NIS America",3,Role-playing
+277,"Mystery Dungeon: Shiren the Wanderer[A]",Jogo,25.80,2019,6,NULL,277,iOS,17,"Spike Chunsoft",1,Roguelike
+278,"Hypnospace Outlaw",Jogo,42.10,2019,5,NULL,278,Win,18,Tendershoot,4,Adventure
+279,"Baba Is You",Jogo,29.50,2019,6,NULL,279,Win,13,Hempuli,4,Puzzle
+280,"Baba Is You",Jogo,29.50,2019,3,NULL,280,NS,13,Hempuli,4,Puzzle
+281,"Bonds of the Skies",Jogo,23.40,2019,4,NULL,281,Win,15,Kemco,1,Role-playing
+282,"Bonds of the Skies",Jogo,23.40,2019,3,NULL,282,NS,15,Kemco,1,Role-playing
+283,"Bonds of the Skies",Jogo,23.40,2019,5,NULL,283,PS4,15,Kemco,1,Role-playing
+284,"Mystery Dungeon: Shiren the Wanderer[A]",Jogo,27.60,2019,5,NULL,284,Droid,14,"Spike Chunsoft",2,Roguelike
+285,"One Piece: World Seeker",Jogo,47.90,2019,5,NULL,285,Win,16,"Bandai Namco Entertainment",1,Action-adventure
+286,"One Piece: World Seeker",Jogo,47.90,2019,4,NULL,286,PS4,16,"Bandai Namco Entertainment",1,Action-adventure
+287,"One Piece: World Seeker",Jogo,47.90,2019,3,NULL,287,XBO,16,"Bandai Namco Entertainment",1,Action-adventure
+288,"Sephirothic Stories",Jogo,42.80,2019,6,NULL,288,XBO,18,Kemco,2,"Role-playing, puzzle"
+289,"Tom Clancy’s The Division 2",Jogo,47.30,2019,6,NULL,289,Win,18,Ubisoft,2,"Action role-playing"
+290,"Tom Clancy’s The Division 2",Jogo,47.30,2019,6,NULL,290,PS4,18,Ubisoft,2,"Action role-playing"
+291,"Tom Clancy’s The Division 2",Jogo,47.30,2019,5,NULL,291,XBO,18,Ubisoft,2,"Action role-playing"
+292,"America Ninja Warrior Challenge",Jogo,18.70,2019,5,NULL,292,NS,14,"GameMill Entertainment",1,Action
+293,"America Ninja Warrior Challenge",Jogo,18.70,2019,6,NULL,293,PS4,14,"GameMill Entertainment",1,Action
+294,"America Ninja Warrior Challenge",Jogo,18.70,2019,3,NULL,294,XBO,14,"GameMill Entertainment",1,Action
+295,"Fate/EXTELLA LINK[B]",Jogo,29.60,2019,3,NULL,295,Win,18,"Xseed Games",4,Action-adventure
+296,"Fate/EXTELLA LINK[B]",Jogo,29.60,2019,4,NULL,296,NS,18,"Xseed Games",4,Action-adventure
+297,"Fate/EXTELLA LINK[B]",Jogo,29.60,2019,6,NULL,297,PS4,18,"Xseed Games",4,Action-adventure
+298,"Super Robot Wars T[A]",Jogo,48.60,2019,4,NULL,298,NS,17,"Bandai Namco Entertainment",1,"Tactical role-playing"
+299,"Super Robot Wars T[A]",Jogo,48.60,2019,5,NULL,299,PS4,17,"Bandai Namco Entertainment",1,"Tactical role-playing"
+300,"Sekiro: Shadows Die Twice",Jogo,29.60,2019,3,NULL,300,Win,15,Activision,1,Action-adventure
+301,"Sekiro: Shadows Die Twice",Jogo,29.60,2019,4,NULL,301,PS4,15,Activision,1,Action-adventure
+302,"Sekiro: Shadows Die Twice",Jogo,29.60,2019,4,NULL,302,XBO,15,Activision,1,Action-adventure
+303,"Unravel Two",Jogo,42.10,2019,5,NULL,303,NS,14,"Electronic Arts",4,Platform
+304,"Final Fantasy VII",Jogo,42.00,2019,3,NULL,304,NS,14,"Square Enix",1,Role-playing
+305,"Final Fantasy VII",Jogo,42.00,2019,5,NULL,305,XBO,14,"Square Enix",1,Role-playing
+306,"Generation Zero",Jogo,46.80,2019,5,NULL,306,Win,17,"Avalanche Studios",4,"Action-adventure, first-person shooter"
+307,"Generation Zero",Jogo,46.80,2019,4,NULL,307,PS4,17,"Avalanche Studios",4,"Action-adventure, first-person shooter"
+308,"Generation Zero",Jogo,46.80,2019,5,NULL,308,XBO,17,"Avalanche Studios",4,"Action-adventure, first-person shooter"
+309,"The Legend of Heroes: Trails of Cold Steel[B]",Jogo,30.40,2019,5,NULL,309,PS4,14,"Xseed Games",4,Role-playing
+310,"MLB The Show 19",Jogo,19.50,2019,5,NULL,310,PS4,17,"Sony Interactive Entertainment",2,Sports
+311,"Nelke & the Legendary Alchemists: Ateliers of the New World[B]",Jogo,44.40,2019,6,NULL,311,Win,13,"Koei Tecmo",1,Role-playing
+312,"Nelke & the Legendary Alchemists: Ateliers of the New World[B]",Jogo,44.40,2019,4,NULL,312,NS,13,"Koei Tecmo",1,Role-playing
+313,"Nelke & the Legendary Alchemists: Ateliers of the New World[B]",Jogo,44.40,2019,5,NULL,313,PS4,13,"Koei Tecmo",1,Role-playing
+314,Outward,Jogo,27.10,2019,5,NULL,314,Win,15,"Deep Silver",1,"Action role-playing"
+315,Outward,Jogo,27.10,2019,6,NULL,315,PS4,15,"Deep Silver",1,"Action role-playing"
+316,Outward,Jogo,27.10,2019,4,NULL,316,XBO,15,"Deep Silver",1,"Action role-playing"
+317,"Power Rangers: Battle for the Grid",Jogo,31.60,2019,3,NULL,317,NS,14,"nWay Games",2,Fighting
+318,"Power Rangers: Battle for the Grid",Jogo,31.60,2019,5,NULL,318,XBO,14,"nWay Games",2,Fighting
+319,"The Walking Dead: The Final Season – Episode 4: Take Us Back",Jogo,41.60,2019,4,NULL,319,Win,14,"Skybound Entertainment",4,"Graphic adventure"
+320,"The Walking Dead: The Final Season – Episode 4: Take Us Back",Jogo,41.60,2019,6,NULL,320,NS,14,"Skybound Entertainment",4,"Graphic adventure"
+321,"The Walking Dead: The Final Season – Episode 4: Take Us Back",Jogo,41.60,2019,5,NULL,321,PS4,14,"Skybound Entertainment",4,"Graphic adventure"
+322,"The Walking Dead: The Final Season – Episode 4: Take Us Back",Jogo,41.60,2019,5,NULL,322,Win,14,"Skybound Entertainment",4,"Graphic adventure"
+323,"Xenon Racer",Jogo,23.60,2019,5,NULL,323,Win,15,Soedesco,2,Racing
+324,"Xenon Racer",Jogo,23.60,2019,6,NULL,324,NS,15,Soedesco,2,Racing
+325,"Xenon Racer",Jogo,23.60,2019,4,NULL,325,PS4,15,Soedesco,2,Racing
+326,"Xenon Racer",Jogo,23.60,2019,6,NULL,326,Win,15,Soedesco,2,Racing
+327,"Fun! Fun! Animal Park",Jogo,42.70,2019,6,NULL,327,NS,18,"Aksys Games",2,Party
+328,"Assassin’s Creed III Remastered",Jogo,43.70,2019,4,NULL,328,Win,15,Ubisoft,4,"Action-adventure, stealth"
+329,"Assassin’s Creed III Remastered",Jogo,43.70,2019,4,NULL,329,PS4,15,Ubisoft,4,"Action-adventure, stealth"
+330,"Assassin’s Creed III Remastered",Jogo,43.70,2019,4,NULL,330,XBO,15,Ubisoft,4,"Action-adventure, stealth"
+331,"Operencia: The Stolen Sun",Jogo,47.60,2019,4,NULL,331,Win,18,"Zen Studios",4,Role-playing
+332,"Operencia: The Stolen Sun",Jogo,47.60,2019,4,NULL,332,XBO,18,"Zen Studios",4,Role-playing
+333,"Tropico 6",Jogo,29.40,2019,5,NULL,333,Win,13,"Kalypso Media",1,Simulation
+334,"Tropico 6",Jogo,29.40,2019,3,NULL,334,Mac,13,"Kalypso Media",1,Simulation
+335,"Tropico 6",Jogo,29.40,2019,3,NULL,335,Lin,13,"Kalypso Media",1,Simulation
+336,Unheard,Jogo,29.00,2019,6,NULL,336,Win,17,"NEXT Studios",4,Puzzle
+337,Unheard,Jogo,29.00,2019,6,NULL,337,Mac,17,"NEXT Studios",4,Puzzle
+338,Unheard,Jogo,29.00,2019,4,NULL,338,Lin,17,"NEXT Studios",4,Puzzle
+339,"Yoshi’s Crafted World",Jogo,49.70,2019,5,NULL,339,NS,18,Nintendo,2,Platformer
+340,"FAR: Lone Sails",Jogo,17.10,2019,5,NULL,340,PS4,14,Mixtvision,2,"Vehicle adventure"
+341,"FAR: Lone Sails",Jogo,17.10,2019,5,NULL,341,XBO,14,Mixtvision,2,"Vehicle adventure"
+342,"Power Rangers: Battle for the Grid",Jogo,43.10,2019,4,NULL,342,PS4,18,"nWay Games",2,Fighting
+343,"Frane: Dragons’ Odyssey",Jogo,18.00,2019,3,NULL,343,XBO,14,Kemco,2,"Action role-playing"
+344,Islanders,Jogo,28.50,2019,6,NULL,344,Win,16,"Grizzly Games",1,"Casual city builder"
+345,Islanders,Jogo,28.50,2019,5,NULL,345,Mac,16,"Grizzly Games",1,"Casual city builder"
+346,Islanders,Jogo,28.50,2019,6,NULL,346,Lin,16,"Grizzly Games",1,"Casual city builder"
+347,"Super Dragon Ball Heroes: World Mission",Jogo,28.50,2019,3,NULL,347,Win,13,"Bandai Namco Entertainment",4,"Adventure, card battle"
+348,"Super Dragon Ball Heroes: World Mission",Jogo,28.50,2019,4,NULL,348,NS,13,"Bandai Namco Entertainment",4,"Adventure, card battle"
+349,"Dangerous Driving",Jogo,21.00,2019,3,NULL,349,Win,17,"Maximum Games",1,Racing
+350,"Dangerous Driving",Jogo,21.00,2019,4,NULL,350,PS4,17,"Maximum Games",1,Racing
+351,"Dangerous Driving",Jogo,21.00,2019,4,NULL,351,XBO,17,"Maximum Games",1,Racing
+352,"Phoenix Wright: Ace Attorney Trilogy[B]",Jogo,28.90,2019,4,NULL,352,Win,14,Capcom,4,"Adventure, visual novel"
+353,"Phoenix Wright: Ace Attorney Trilogy[B]",Jogo,28.90,2019,4,NULL,353,NS,14,Capcom,4,"Adventure, visual novel"
+354,"Phoenix Wright: Ace Attorney Trilogy[B]",Jogo,28.90,2019,4,NULL,354,PS4,14,Capcom,4,"Adventure, visual novel"
+355,"Phoenix Wright: Ace Attorney Trilogy[B]",Jogo,28.90,2019,6,NULL,355,Win,14,Capcom,4,"Adventure, visual novel"
+356,"Zanki Zero: Last Beginning[B]",Jogo,22.60,2019,5,NULL,356,Win,17,"Spike Chunsoft",1,"Role-playing, dungeon crawler"
+357,"Zanki Zero: Last Beginning[B]",Jogo,22.60,2019,5,NULL,357,PS4,17,"Spike Chunsoft",1,"Role-playing, dungeon crawler"
+358,"Earth Defense Force: Iron Rain",Jogo,36.10,2019,5,NULL,358,PS4,18,"D3 Publisher",3,Action
+359,"Hellblade: Senua’s Sacrifice",Jogo,36.60,2019,5,NULL,359,NS,15,"Ninja Theory",1,Action-adventure
+360,"Code 7: Episode 2 — Memory and Episode 3 — Backdoor",Jogo,48.90,2019,4,NULL,360,Win,16,"Goodwolf Studio",3,Adventure
+361,"Code 7: Episode 2 — Memory and Episode 3 — Backdoor",Jogo,48.90,2019,6,NULL,361,Mac,16,"Goodwolf Studio",3,Adventure
+362,"Code 7: Episode 2 — Memory and Episode 3 — Backdoor",Jogo,48.90,2019,4,NULL,362,Lin,16,"Goodwolf Studio",3,Adventure
+363,"Nintendo Labo Toy-Con 04: VR Kit[B]",Jogo,43.60,2019,5,NULL,363,NS,14,Nintendo,1,"Construction set"
+364,"Konami Arcade Classics",Jogo,42.00,2019,6,NULL,364,Win,13,Konami,3,"Platformer, shoot ’em up"
+365,"Konami Arcade Classics",Jogo,42.00,2019,5,NULL,365,NS,13,Konami,3,"Platformer, shoot ’em up"
+366,"Konami Arcade Classics",Jogo,42.00,2019,4,NULL,366,PS4,13,Konami,3,"Platformer, shoot ’em up"
+367,"Konami Arcade Classics",Jogo,42.00,2019,4,NULL,367,Win,13,Konami,3,"Platformer, shoot ’em up"
+368,"Anno 1800",Jogo,28.40,2019,6,NULL,368,Win,14,Ubisoft,3,"City-building, real-time strategy"
+369,"Final Fantasy X/X-2 HD Remaster",Jogo,37.80,2019,6,NULL,369,NS,16,"Square Enix",1,Role-playing
+370,"Final Fantasy X/X-2 HD Remaster",Jogo,37.80,2019,4,NULL,370,XBO,16,"Square Enix",1,Role-playing
+371,"My Time at Portia",Jogo,41.00,2019,6,NULL,371,NS,16,Team17,3,Sandbox
+372,"My Time at Portia",Jogo,41.00,2019,5,NULL,372,PS4,16,Team17,3,Sandbox
+373,"My Time at Portia",Jogo,41.00,2019,4,NULL,373,XBO,16,Team17,3,Sandbox
+374,"World War Z",Jogo,21.20,2019,3,NULL,374,Win,14,"Mad Dog Games",3,"Survival horror, third-person shooter"
+375,"World War Z",Jogo,21.20,2019,4,NULL,375,PS4,14,"Mad Dog Games",3,"Survival horror, third-person shooter"
+376,"World War Z",Jogo,21.20,2019,5,NULL,376,XBO,14,"Mad Dog Games",3,"Survival horror, third-person shooter"
+377,Cuphead,Jogo,37.70,2019,4,NULL,377,NS,16,StudioMDHR,2,Platform
+378,"Katana Zero",Jogo,40.20,2019,4,NULL,378,Win,15,"Devolver Digital",1,"Action platformer"
+379,"Katana Zero",Jogo,40.20,2019,5,NULL,379,NS,15,"Devolver Digital",1,"Action platformer"
+380,"Dragon’s Dogma: Dark Arisen",Jogo,47.20,2019,4,NULL,380,NS,16,Capcom,3,"Action role-playing, hack and slash"
+381,"Mortal Kombat 11",Jogo,47.90,2019,6,NULL,381,Win,17,"Warner Bros. Interactive Entertainment",3,Fighting
+382,"Mortal Kombat 11",Jogo,47.90,2019,4,NULL,382,NS,17,"Warner Bros. Interactive Entertainment",3,Fighting
+383,"Mortal Kombat 11",Jogo,47.90,2019,4,NULL,383,PS4,17,"Warner Bros. Interactive Entertainment",3,Fighting
+384,"Mortal Kombat 11",Jogo,47.90,2019,5,NULL,384,Win,17,"Warner Bros. Interactive Entertainment",3,Fighting
+385,"Imperator: Rome",Jogo,35.90,2019,5,NULL,385,Win,13,"Paradox Interactive",4,"Grand strategy"
+386,"Picross S3",Jogo,31.40,2019,4,NULL,386,NS,14,"Jupiter Corporation",3,Puzzle
+387,"SteamWorld Quest: Hand of Gilgamech",Jogo,24.00,2019,3,NULL,387,NS,18,"Thunderful Publishing",1,Role-playing
+388,"Umihara Kawase Fresh![A]",Jogo,27.60,2019,5,NULL,388,NS,17,Nicalis,1,Action
+389,"BoxBoy! + BoxGirl!",Jogo,42.30,2019,5,NULL,389,NS,13,Nintendo,2,Puzzle-platform
+390,"Days Gone",Jogo,36.30,2019,5,NULL,390,PS4,18,"Sony Interactive Entertainment",2,"Action-adventure, survival horror"
+391,"Final Fantasy XII: The Zodiac Age",Jogo,30.90,2019,3,NULL,391,NS,13,"Square Enix",3,Role-playing
+392,"Final Fantasy XII: The Zodiac Age",Jogo,30.90,2019,4,NULL,392,XBO,13,"Square Enix",3,Role-playing
+393,UBOAT,Jogo,16.70,2019,6,NULL,393,Win,18,"PlayWay S.A.",2,"Submarine simulator"
+394,"Close to the Sun",Jogo,34.10,2019,5,NULL,394,Win,17,"Wired Productions",2,"Adventure, survival horror"
+395,"Puyo Puyo Champions[B]",Jogo,27.80,2019,5,NULL,395,Win,17,Sega,4,Puzzle
+396,"Puyo Puyo Champions[B]",Jogo,27.80,2019,3,NULL,396,NS,17,Sega,4,Puzzle
+397,"Puyo Puyo Champions[B]",Jogo,27.80,2019,3,NULL,397,PS4,17,Sega,4,Puzzle
+398,"Puyo Puyo Champions[B]",Jogo,27.80,2019,4,NULL,398,Win,17,Sega,4,Puzzle
+399,"Shakedown: Hawaii",Jogo,40.90,2019,5,NULL,399,Win,15,"Vblank Entertainment",1,Action-adventure
+400,"Shakedown: Hawaii",Jogo,40.90,2019,5,NULL,400,NS,15,"Vblank Entertainment",1,Action-adventure
+401,"Shakedown: Hawaii",Jogo,40.90,2019,5,NULL,401,PS4,15,"Vblank Entertainment",1,Action-adventure
+402,"Shakedown: Hawaii",Jogo,40.90,2019,5,NULL,402,Win,15,"Vblank Entertainment",1,Action-adventure
+403,"Life Is Strange 2 – Episode 3: Wastelands",Jogo,28.40,2019,3,NULL,403,Win,18,"Square Enix",1,"Graphic adventure"
+404,"Life Is Strange 2 – Episode 3: Wastelands",Jogo,28.40,2019,3,NULL,404,PS4,18,"Square Enix",1,"Graphic adventure"
+405,"Life Is Strange 2 – Episode 3: Wastelands",Jogo,28.40,2019,5,NULL,405,XBO,18,"Square Enix",1,"Graphic adventure"
+406,"Yakuza Kiwami 2",Jogo,23.60,2019,4,NULL,406,Win,15,Sega,4,Action-adventure
+407,"Saints Row: The Third - The Full Package",Jogo,22.10,2019,5,NULL,407,NS,14,"Deep Silver",4,"Action-adventure, third-person shooter"
+408,"A Plague Tale: Innocence",Jogo,38.40,2019,4,NULL,408,Win,17,"Focus Home Interactive",3,"Action-adventure, puzzle"
+409,"A Plague Tale: Innocence",Jogo,38.40,2019,3,NULL,409,PS4,17,"Focus Home Interactive",3,"Action-adventure, puzzle"
+410,"A Plague Tale: Innocence",Jogo,38.40,2019,3,NULL,410,XBO,17,"Focus Home Interactive",3,"Action-adventure, puzzle"
+411,Darkwood,Jogo,25.10,2019,4,NULL,411,PS4,16,"Acid Wizard Studio",4,"Survival horror, action-adventure"
+412,"Rage 2",Jogo,45.40,2019,5,NULL,412,Win,15,"Bethesda Softworks",4,"First-person shooter"
+413,"Rage 2",Jogo,45.40,2019,3,NULL,413,PS4,15,"Bethesda Softworks",4,"First-person shooter"
+414,"Rage 2",Jogo,45.40,2019,3,NULL,414,XBO,15,"Bethesda Softworks",4,"First-person shooter"
+415,Redout,Jogo,19.50,2019,6,NULL,415,NS,14,Nicalis,2,Racing
+416,"Sniper Elite V2 Remastered",Jogo,33.10,2019,6,NULL,416,Win,16,"Rebellion Developments",4,"Third-person shooter"
+417,"Sniper Elite V2 Remastered",Jogo,33.10,2019,5,NULL,417,NS,16,"Rebellion Developments",4,"Third-person shooter"
+418,"Sniper Elite V2 Remastered",Jogo,33.10,2019,4,NULL,418,PS4,16,"Rebellion Developments",4,"Third-person shooter"
+419,"Sniper Elite V2 Remastered",Jogo,33.10,2019,4,NULL,419,Win,16,"Rebellion Developments",4,"Third-person shooter"
+420,"World End Syndrome",Jogo,22.00,2019,3,NULL,420,NS,13,"Arc System Works",4,"Visual novel"
+421,"World End Syndrome",Jogo,22.00,2019,6,NULL,421,PS4,13,"Arc System Works",4,"Visual novel"
+422,"Bubsy: Paws on Fire!",Jogo,25.40,2019,4,NULL,422,Win,16,"UFO Interactive Games",1,Platformer
+423,"Bubsy: Paws on Fire!",Jogo,25.40,2019,6,NULL,423,PS4,16,"UFO Interactive Games",1,Platformer
+424,"Castlevania Anniversary Collection",Jogo,28.50,2019,6,NULL,424,Win,15,Konami,4,Platform
+425,"Castlevania Anniversary Collection",Jogo,28.50,2019,5,NULL,425,NS,15,Konami,4,Platform
+426,"Castlevania Anniversary Collection",Jogo,28.50,2019,5,NULL,426,PS4,15,Konami,4,Platform
+427,"Castlevania Anniversary Collection",Jogo,28.50,2019,3,NULL,427,Win,15,Konami,4,Platform
+428,Darkwood,Jogo,26.90,2019,3,NULL,428,NS,14,"Acid Wizard Studio",1,"Survival horror, action-adventure"
+429,Darkwood,Jogo,26.90,2019,6,NULL,429,XBO,14,"Acid Wizard Studio",1,"Survival horror, action-adventure"
+430,"Assassin’s Creed III Remastered",Jogo,22.00,2019,3,NULL,430,NS,18,Ubisoft,3,"Action-adventure, stealth"
+431,"Atelier Lulua: The Scion of Arland",Jogo,22.20,2019,4,NULL,431,Win,14,"Koei Tecmo",3,Role-playing
+432,"Atelier Lulua: The Scion of Arland",Jogo,22.20,2019,5,NULL,432,NS,14,"Koei Tecmo",3,Role-playing
+433,"Atelier Lulua: The Scion of Arland",Jogo,22.20,2019,4,NULL,433,PS4,14,"Koei Tecmo",3,Role-playing
+434,Dauntless,Jogo,41.90,2019,5,NULL,434,Win,18,"Epic Games",1,"Action role-playing"
+435,Dauntless,Jogo,41.90,2019,3,NULL,435,PS4,18,"Epic Games",1,"Action role-playing"
+436,Dauntless,Jogo,41.90,2019,6,NULL,436,XBO,18,"Epic Games",1,"Action role-playing"
+437,Observation,Jogo,20.10,2019,5,NULL,437,Win,17,"Devolver Digital",4,Adventure
+438,Observation,Jogo,20.10,2019,3,NULL,438,PS4,17,"Devolver Digital",4,Adventure
+439,Observation,Jogo,20.10,2019,3,NULL,439,Win,17,"Devolver Digital",4,puzzle
+440,Observation,Jogo,20.10,2019,4,NULL,440,PS4,17,"Devolver Digital",4,puzzle
+441,"Resident Evil",Jogo,41.20,2019,4,NULL,441,NS,17,Capcom,3,"Survival horror"
+442,"Resident Evil 4",Jogo,33.40,2019,6,NULL,442,NS,16,Capcom,4,"Survival horror, third-person shooter"
+443,"Resident Evil Zero",Jogo,39.90,2019,6,NULL,443,NS,17,Capcom,4,"Survival horror"
+444,"Slay the Spire",Jogo,47.50,2019,4,NULL,444,PS4,17,"Humble Bundle",3,"Roguelike, deck-building"
+445,"Team Sonic Racing",Jogo,45.60,2019,5,NULL,445,Win,18,Sega,3,"Kart racing"
+446,"Team Sonic Racing",Jogo,45.60,2019,6,NULL,446,NS,18,Sega,3,"Kart racing"
+447,"Team Sonic Racing",Jogo,45.60,2019,5,NULL,447,PS4,18,Sega,3,"Kart racing"
+448,"Team Sonic Racing",Jogo,45.60,2019,5,NULL,448,Win,18,Sega,3,"Kart racing"
+449,"Pokémon Rumble Rush",Jogo,33.30,2019,6,NULL,449,Droid,18,"The Pokémon Company",1,Action
+450,"Total War: Three Kingdoms",Jogo,33.90,2019,6,NULL,450,Win,18,Sega,1,"Turn-based strategy, real-time tactics"
+451,"Little Friends: Dogs & Cats",Jogo,34.10,2019,5,NULL,451,NS,13,Imagineer,4,Simulation
+452,"Among the Sleep: Enhanced Edition",Jogo,29.80,2019,5,NULL,452,NS,18,"Krillbite Studio",4,"Survival horror, action-adventure"
+453,"Among the Sleep: Enhanced Edition",Jogo,29.80,2019,3,NULL,453,PS4,18,"Krillbite Studio",4,"Survival horror, action-adventure"
+454,"Among the Sleep: Enhanced Edition",Jogo,29.80,2019,4,NULL,454,XBO,18,"Krillbite Studio",4,"Survival horror, action-adventure"
+455,"Blood & Truth",Jogo,46.50,2019,6,NULL,455,PS4,17,"Sony Interactive Entertainment",2,"First-person shooter"
+456,"Brothers: A Tale of Two Sons",Jogo,46.50,2019,4,NULL,456,NS,18,"505 Games",3,Adventure
+457,"Crystal Crisis",Jogo,23.30,2019,3,NULL,457,NS,16,Nicalis,4,Puzzle
+458,"The House in Fata Morgana: Dream of the Revenants Edition",Jogo,33.90,2019,5,NULL,458,PSVita,15,"Mighty Rabbit Studios",3,"Visual novel"
+459,"Layers of Fear 2",Jogo,24.90,2019,6,NULL,459,Win,13,"Gun Media",4,Adventure
+460,"Layers of Fear 2",Jogo,24.90,2019,3,NULL,460,PS4,13,"Gun Media",4,Adventure
+461,"Layers of Fear 2",Jogo,24.90,2019,4,NULL,461,XBO,13,"Gun Media",4,Adventure
+462,"Layers of Fear 2",Jogo,24.90,2019,4,NULL,462,Win,13,"Gun Media",4,Horror
+463,"Layers of Fear 2",Jogo,24.90,2019,5,NULL,463,PS4,13,"Gun Media",4,Horror
+464,"Layers of Fear 2",Jogo,24.90,2019,4,NULL,464,XBO,13,"Gun Media",4,Horror
+465,"Void Bastards",Jogo,22.60,2019,5,NULL,465,Win,15,"Humble Bundle",2,"First-person shooter, roguelike"
+466,"Void Bastards",Jogo,22.60,2019,5,NULL,466,XBO,15,"Humble Bundle",2,"First-person shooter, roguelike"
+467,Vectronom,Jogo,20.80,2019,4,NULL,467,Win,15,"ARTE Experience",2,Rhythm
+468,Vectronom,Jogo,20.80,2019,3,NULL,468,Mac,15,"ARTE Experience",2,Rhythm
+469,Vectronom,Jogo,20.80,2019,6,NULL,469,NS,15,"ARTE Experience",2,Rhythm
+470,"Outer Wilds",Jogo,30.20,2019,5,NULL,470,Win,15,"Annapurna Interactive",4,Adventure
+471,"Outer Wilds",Jogo,30.20,2019,5,NULL,471,XBO,15,"Annapurna Interactive",4,Adventure
+472,"Cricket 19",Jogo,39.20,2019,4,NULL,472,NS,14,"Big Ant Studios",4,Sports
+473,"Cricket 19",Jogo,39.20,2019,5,NULL,473,PS4,14,"Big Ant Studios",4,Sports
+474,"Cricket 19",Jogo,39.20,2019,6,NULL,474,XBO,14,"Big Ant Studios",4,Sports
+475,PixARK,Jogo,34.00,2019,4,NULL,475,Win,18,"Snail Games",2,Sandbox
+476,PixARK,Jogo,34.00,2019,3,NULL,476,NS,18,"Snail Games",2,Sandbox
+477,PixARK,Jogo,34.00,2019,3,NULL,477,PS4,18,"Snail Games",2,Sandbox
+478,PixARK,Jogo,34.00,2019,4,NULL,478,Win,18,"Snail Games",2,Sandbox
+479,"Kotodama: The 7 Mysteries of Fujisawa",Jogo,35.10,2019,3,NULL,479,Win,14,PQube,4,"Visual novel"
+480,"Kotodama: The 7 Mysteries of Fujisawa",Jogo,35.10,2019,3,NULL,480,NS,14,PQube,4,"Visual novel"
+481,"Kotodama: The 7 Mysteries of Fujisawa",Jogo,35.10,2019,5,NULL,481,PS4,14,PQube,4,"Visual novel"
+482,"The Legend of Heroes: Trails of Cold Steel II[B]",Jogo,36.70,2019,3,NULL,482,PS4,13,"Xseed Games",2,Role-playing
+483,"Persona Q2: New Cinema Labyrinth[B]",Jogo,35.80,2019,6,NULL,483,3DS,18,Atlus,4,"Dungeon crawler, role-playing"
+484,Timespinner,Jogo,30.00,2019,3,NULL,484,NS,13,"Lunar Ray Games",1,Metroidvania
+485,"Warhammer: Chaosbane",Jogo,32.00,2019,4,NULL,485,Win,15,"Bigben Interactive",2,Role-playing
+486,"Warhammer: Chaosbane",Jogo,32.00,2019,4,NULL,486,PS4,15,"Bigben Interactive",2,Role-playing
+487,"Warhammer: Chaosbane",Jogo,32.00,2019,5,NULL,487,XBO,15,"Bigben Interactive",2,Role-playing
+488,Journey,Jogo,38.30,2019,3,NULL,488,Win,18,"Annapurna Interactive",1,"Adventure, art game"
+489,"MotoGP 19",Jogo,16.00,2019,4,NULL,489,Win,18,Milestone,2,Racing
+490,"MotoGP 19",Jogo,16.00,2019,6,NULL,490,PS4,18,Milestone,2,Racing
+491,"MotoGP 19",Jogo,16.00,2019,4,NULL,491,XBO,18,Milestone,2,Racing
+492,"Slay the Spire",Jogo,25.10,2019,3,NULL,492,NS,18,"Humble Bundle",1,"Roguelike, deck-building"
+493,"A-Train Express[B]",Jogo,46.80,2019,5,NULL,493,PS4,18,"Degica Games",2,Simulation
+494,"A-Train Express[B]",Jogo,46.80,2019,5,NULL,494,PSVR,18,"Degica Games",2,Simulation
+495,"Octopath Traveler",Jogo,23.30,2019,3,NULL,495,Win,17,"Square Enix",4,Role-playing
+496,"Battle Worlds: Kronos",Jogo,48.10,2019,4,NULL,496,NS,13,"THQ Nordic",4,"Turn-based strategy"
+497,"Collection of Mana",Jogo,38.20,2019,6,NULL,497,NS,16,"Square Enix",2,"Action role-playing"
+498,"Contra Anniversary Collection",Jogo,42.20,2019,4,NULL,498,Win,18,Konami,2,Action
+499,"Contra Anniversary Collection",Jogo,42.20,2019,5,NULL,499,NS,18,Konami,2,Action
+500,"Contra Anniversary Collection",Jogo,42.20,2019,5,NULL,500,PS4,18,Konami,2,Action
+501,"Contra Anniversary Collection",Jogo,42.20,2019,4,NULL,501,Win,18,Konami,2,Action
+502,"Contra Anniversary Collection",Jogo,42.20,2019,6,NULL,502,Win,18,Konami,2,platformer
+503,"Contra Anniversary Collection",Jogo,42.20,2019,4,NULL,503,NS,18,Konami,2,platformer
+504,"Contra Anniversary Collection",Jogo,42.20,2019,5,NULL,504,PS4,18,Konami,2,platformer
+505,"Contra Anniversary Collection",Jogo,42.20,2019,3,NULL,505,Win,18,Konami,2,platformer
+506,"The House in Fata Morgana: Dream of the Revenants Edition",Jogo,46.70,2019,4,NULL,506,PS4,16,"Mighty Rabbit Studios",3,"Visual novel"
+507,"Doraemon: Nobita’s Story of Seasons[A]",Jogo,20.30,2019,5,NULL,507,NS,18,"Bandai Namco Entertainment",4,Simulation
+508,"Cadence of Hyrule",Jogo,31.10,2019,5,NULL,508,NS,15,Nintendo,4,Roguelike
+509,"Cadence of Hyrule",Jogo,31.10,2019,4,NULL,509,NS,15,Nintendo,4,rhythm
+510,"Blaster Master Zero",Jogo,20.60,2019,6,NULL,510,Win,13,"Inti Creates",3,Action
+511,"Blaster Master Zero",Jogo,20.60,2019,4,NULL,511,Win,13,"Inti Creates",3,platformer
+512,"Bloodstained: Ritual of the Night",Jogo,46.50,2019,6,NULL,512,Win,18,"505 Games",4,"Metroidvania, action-adventure"
+513,"Bloodstained: Ritual of the Night",Jogo,46.50,2019,4,NULL,513,PS4,18,"505 Games",4,"Metroidvania, action-adventure"
+514,"Bloodstained: Ritual of the Night",Jogo,46.50,2019,3,NULL,514,XBO,18,"505 Games",4,"Metroidvania, action-adventure"
+515,"Crystal Crisis",Jogo,23.20,2019,5,NULL,515,PS4,15,Nicalis,1,Puzzle
+516,198X,Jogo,29.40,2019,3,NULL,516,Win,18,"Hi-Bit Studios",1,Arcade
+517,198X,Jogo,29.40,2019,5,NULL,517,PS4,18,"Hi-Bit Studios",1,Arcade
+518,"Harry Potter: Wizards Unite",Jogo,30.90,2019,4,NULL,518,iOS,14,Niantic,1,Adventure
+519,"Harry Potter: Wizards Unite",Jogo,30.90,2019,4,NULL,519,Droid,14,Niantic,1,Adventure
+520,"My Friend Pedro",Jogo,44.60,2019,4,NULL,520,Win,13,"Devolver Digital",1,"Shoot ’em up"
+521,"My Friend Pedro",Jogo,44.60,2019,6,NULL,521,NS,13,"Devolver Digital",1,"Shoot ’em up"
+522,"Project Lux",Jogo,16.00,2019,4,NULL,522,PS4,14,"Sekai Project",3,Adventure
+523,"Super Neptunia RPG[B]",Jogo,41.90,2019,3,NULL,523,Win,16,"Idea Factory",1,Role-playing
+524,"Yakuza 5[A]",Jogo,39.10,2019,4,NULL,524,PS4,16,Sega,3,Action-adventure
+525,"Yo-kai Watch 4[A]",Jogo,32.00,2019,5,NULL,525,NS,16,Level-5,2,Role-playing
+526,"Crash Team Racing Nitro-Fueled",Jogo,27.40,2019,5,NULL,526,NS,16,Activision,4,"Kart racing"
+527,"Crash Team Racing Nitro-Fueled",Jogo,27.40,2019,5,NULL,527,PS4,16,Activision,4,"Kart racing"
+528,"Crash Team Racing Nitro-Fueled",Jogo,27.40,2019,4,NULL,528,XBO,16,Activision,4,"Kart racing"
+529,"Heavy Rain",Jogo,33.10,2019,6,NULL,529,Win,14,"Sony Interactive Entertainment",2,"Interactive drama"
+530,"Bloodstained: Ritual of the Night",Jogo,31.40,2019,4,NULL,530,NS,16,"505 Games",4,"Metroidvania, action-adventure"
+531,"Devil May Cry",Jogo,37.50,2019,4,NULL,531,NS,18,Capcom,4,"Action-adventure, hack and slash"
+532,Judgment[B],Jogo,45.80,2019,6,NULL,532,PS4,13,Sega,3,Action-adventure
+533,"Samurai Shodown",Jogo,42.30,2019,3,NULL,533,PS4,18,"Athlon Games",1,Fighting
+534,"Samurai Shodown",Jogo,42.30,2019,5,NULL,534,XBO,18,"Athlon Games",1,Fighting
+535,"Super Neptunia RPG[B]",Jogo,30.40,2019,3,NULL,535,NS,16,"Idea Factory",2,Role-playing
+536,"Super Neptunia RPG[B]",Jogo,30.40,2019,3,NULL,536,PS4,16,"Idea Factory",2,Role-playing
+537,"Human: Fall Flat",Jogo,35.70,2019,6,NULL,537,iOS,14,"505 Games",2,Platform
+538,"Human: Fall Flat",Jogo,35.70,2019,5,NULL,538,Droid,14,"505 Games",2,Platform
+539,"Human: Fall Flat",Jogo,35.70,2019,3,NULL,539,iOS,14,"505 Games",2,puzzle
+540,"Human: Fall Flat",Jogo,35.70,2019,3,NULL,540,Droid,14,"505 Games",2,puzzle
+541,Minit,Jogo,18.70,2019,4,NULL,541,iOS,15,"Devolver Digital",1,Adventure
+542,Minit,Jogo,18.70,2019,5,NULL,542,Droid,15,"Devolver Digital",1,Adventure
+543,"MotoGP 19",Jogo,22.90,2019,5,NULL,543,NS,15,Milestone,3,Racing
+544,"The Sinking City",Jogo,41.70,2019,3,NULL,544,Win,16,"Bigben Interactive",3,"Action-adventure, survival horror"
+545,"The Sinking City",Jogo,41.70,2019,3,NULL,545,PS4,16,"Bigben Interactive",3,"Action-adventure, survival horror"
+546,"The Sinking City",Jogo,41.70,2019,5,NULL,546,XBO,16,"Bigben Interactive",3,"Action-adventure, survival horror"
+547,"F1 2019",Jogo,45.50,2019,4,NULL,547,Win,16,Codemasters,2,Racing
+548,"F1 2019",Jogo,45.50,2019,3,NULL,548,PS4,16,Codemasters,2,Racing
+549,"F1 2019",Jogo,45.50,2019,4,NULL,549,XBO,16,Codemasters,2,Racing
+550,"Super Mario Maker 2",Jogo,41.00,2019,5,NULL,550,NS,14,Nintendo,1,"Level editor, platform"
+551,"Psyvariar Delta[B]",Jogo,31.60,2019,6,NULL,551,NS,15,"Dispatch Games",1,"Shoot ’em up"
+552,"Psyvariar Delta[B]",Jogo,31.60,2019,6,NULL,552,PS4,15,"Dispatch Games",1,"Shoot ’em up"
+553,"Red Faction: Guerrilla Re-Mars-tered",Jogo,45.00,2019,3,NULL,553,NS,18,"THQ Nordic",3,"Third-person shooter, action-adventure"
+554,"Alternate Jake Hunter: Daedalus The Awakening of Golden Jazz",Jogo,19.80,2019,4,NULL,554,Win,18,"Arc System Works",4,Adventure
+555,Clannad,Jogo,49.50,2019,3,NULL,555,NS,13,Prototype,1,"Visual novel"
+556,"Stranger Things 3: The Game",Jogo,36.40,2019,5,NULL,556,Win,16,Netflix,4,"Beat ’em up"
+557,"Stranger Things 3: The Game",Jogo,36.40,2019,5,NULL,557,NS,16,Netflix,4,"Beat ’em up"
+558,"Stranger Things 3: The Game",Jogo,36.40,2019,4,NULL,558,PS4,16,Netflix,4,"Beat ’em up"
+559,"Stranger Things 3: The Game",Jogo,36.40,2019,4,NULL,559,Win,16,Netflix,4,"Beat ’em up"
+560,"Attack on Titan 2: Final Battle",Jogo,28.30,2019,6,NULL,560,Win,14,"Koei Tecmo",2,Action
+561,"Attack on Titan 2: Final Battle",Jogo,28.30,2019,5,NULL,561,NS,14,"Koei Tecmo",2,Action
+562,"Attack on Titan 2: Final Battle",Jogo,28.30,2019,3,NULL,562,PS4,14,"Koei Tecmo",2,Action
+563,"Attack on Titan 2: Final Battle",Jogo,28.30,2019,5,NULL,563,Win,14,"Koei Tecmo",2,Action
+564,"Sea of Solitude",Jogo,41.40,2019,5,NULL,564,Win,18,"Electronic Arts",4,Adventure
+565,"Sea of Solitude",Jogo,41.40,2019,6,NULL,565,PS4,18,"Electronic Arts",4,Adventure
+566,"Sea of Solitude",Jogo,41.40,2019,6,NULL,566,XBO,18,"Electronic Arts",4,Adventure
+567,Teppen,Jogo,29.80,2019,5,NULL,567,iOS,14,"GungHo Online Entertainment",3,"Digital collectible card game"
+568,Teppen,Jogo,29.80,2019,5,NULL,568,Droid,14,"GungHo Online Entertainment",3,"Digital collectible card game"
+569,"Dr. Mario World",Jogo,39.00,2019,5,NULL,569,iOS,16,Nintendo,3,Puzzle
+570,"Dr. Mario World",Jogo,39.00,2019,4,NULL,570,Droid,16,Nintendo,3,Puzzle
+571,"Senran Kagura: Peach Ball[B]",Jogo,30.90,2019,5,NULL,571,NS,16,"Xseed Games",4,Pinball
+572,"Umihara Kawase Fresh![B]",Jogo,26.40,2019,4,NULL,572,NS,18,Nicalis,4,Action
+573,"Umihara Kawase Fresh![B]",Jogo,26.40,2019,4,NULL,573,NS,18,Nicalis,4,platform
+574,"Blazing Chrome",Jogo,18.80,2019,6,NULL,574,Win,13,"The Arcade Crew",2,"Run and gun"
+575,"Blazing Chrome",Jogo,18.80,2019,5,NULL,575,NS,13,"The Arcade Crew",2,"Run and gun"
+576,"Blazing Chrome",Jogo,18.80,2019,4,NULL,576,PS4,13,"The Arcade Crew",2,"Run and gun"
+577,"Blazing Chrome",Jogo,18.80,2019,3,NULL,577,Win,13,"The Arcade Crew",2,"Run and gun"
+578,"Earth Defense Force 5",Jogo,41.60,2019,6,NULL,578,Win,13,"D3 Publisher",3,"Third-person shooter"
+579,"Tiny Metal: Full Metal Rumble",Jogo,45.00,2019,4,NULL,579,Win,18,Unties,4,"Turn-based tactics"
+580,"Tiny Metal: Full Metal Rumble",Jogo,45.00,2019,4,NULL,580,NS,18,Unties,4,"Turn-based tactics"
+581,"Dragon Quest Builders 2[B]",Jogo,31.30,2019,4,NULL,581,NS,14,"Square Enix",3,"Action role-playing, sandbox"
+582,"Dragon Quest Builders 2[B]",Jogo,31.30,2019,3,NULL,582,PS4,14,"Square Enix",3,"Action role-playing, sandbox"
+583,"God Eater 3",Jogo,20.70,2019,4,NULL,583,NS,16,"Bandai Namco Entertainment",4,"Action role-playing"
+584,Etherborn,Jogo,16.70,2019,4,NULL,584,Win,14,"Altered Matter",2,Puzzle
+585,Etherborn,Jogo,16.70,2019,3,NULL,585,NS,14,"Altered Matter",2,Puzzle
+586,Etherborn,Jogo,16.70,2019,5,NULL,586,PS4,14,"Altered Matter",2,Puzzle
+587,Etherborn,Jogo,16.70,2019,5,NULL,587,Win,14,"Altered Matter",2,Puzzle
+588,"Sky: Children of the Light",Jogo,22.40,2019,5,NULL,588,iOS,14,Thatgamecompany,2,Adventure
+589,"Lost Ember",Jogo,25.20,2019,4,NULL,589,Win,15,"Mooneye Studios",1,
+590,"Lost Ember",Jogo,25.20,2019,5,NULL,590,PS4,15,"Mooneye Studios",1,
+591,"Lost Ember",Jogo,25.20,2019,5,NULL,591,XBO,15,"Mooneye Studios",1,
+592,"Marvel Ultimate Alliance 3: The Black Order",Jogo,39.70,2019,6,NULL,592,NS,18,Nintendo,1,"Action role-playing"
+593,"Beyond: Two Souls",Jogo,29.90,2019,4,NULL,593,Win,14,"Quantic Dream",2,"Interactive drama"
+594,"Pokémon Rumble Rush",Jogo,48.30,2019,3,NULL,594,iOS,13,"The Pokemon Company",1,Action
+595,"Tetris Effect",Jogo,41.50,2019,4,NULL,595,Win,15,"Enhance Games",1,Puzzle
+596,Vane,Jogo,43.50,2019,4,NULL,596,Win,17,"Friend & Foe",3,Adventure
+597,"Hyper Light Drifter",Jogo,43.40,2019,4,NULL,597,iOS,13,"Abylight Studios",3,"Action role-playing"
+598,"Raiden V: Director’s Cut",Jogo,29.40,2019,5,NULL,598,NS,14,"UFO Interactive Games",4,Shooter
+599,"Fire Emblem: Three Houses",Jogo,35.60,2019,5,NULL,599,NS,14,Nintendo,1,"Tactical role-playing"
+600,"Kill la Kill: If",Jogo,30.60,2019,3,NULL,600,Win,13,"Arc System Works",3,Action
+601,"Kill la Kill: If",Jogo,30.60,2019,5,NULL,601,NS,13,"Arc System Works",3,Action
+602,"Kill la Kill: If",Jogo,30.60,2019,5,NULL,602,PS4,13,"Arc System Works",3,Action
+603,"Kill la Kill: If",Jogo,30.60,2019,5,NULL,603,Win,13,"Arc System Works",3,fighting
+604,"Kill la Kill: If",Jogo,30.60,2019,4,NULL,604,NS,13,"Arc System Works",3,fighting
+605,"Kill la Kill: If",Jogo,30.60,2019,5,NULL,605,PS4,13,"Arc System Works",3,fighting
+606,"Wolfenstein: Cyberpilot",Jogo,40.40,2019,4,NULL,606,Win,17,"Bethesda Softworks",1,"First-person shooter, action-adventure"
+607,"Wolfenstein: Cyberpilot",Jogo,40.40,2019,6,NULL,607,PS4,17,"Bethesda Softworks",1,"First-person shooter, action-adventure"
+608,"Wolfenstein: Youngblood",Jogo,47.50,2019,5,NULL,608,Win,15,"Bethesda Softworks",3,"First-person shooter"
+609,"Wolfenstein: Youngblood",Jogo,47.50,2019,5,NULL,609,NS,15,"Bethesda Softworks",3,"First-person shooter"
+610,"Wolfenstein: Youngblood",Jogo,47.50,2019,6,NULL,610,PS4,15,"Bethesda Softworks",3,"First-person shooter"
+611,"Wolfenstein: Youngblood",Jogo,47.50,2019,6,NULL,611,Win,15,"Bethesda Softworks",3,"First-person shooter"
+612,"Mutant Year Zero: Road to Eden: Deluxe Edition",Jogo,32.10,2019,4,NULL,612,NS,14,Funcom,4,"Turn-based strategy"
+613,"Oxygen Not Included",Jogo,47.40,2019,6,NULL,613,Win,16,"Klei Entertainment",1,Survival
+614,"Oxygen Not Included",Jogo,47.40,2019,5,NULL,614,Mac,16,"Klei Entertainment",1,Survival
+615,"Oxygen Not Included",Jogo,47.40,2019,5,NULL,615,Lin,16,"Klei Entertainment",1,Survival
+616,"Oxygen Not Included",Jogo,47.40,2019,3,NULL,616,Win,16,"Klei Entertainment",1,simulation
+617,"Oxygen Not Included",Jogo,47.40,2019,5,NULL,617,Mac,16,"Klei Entertainment",1,simulation
+618,"Oxygen Not Included",Jogo,47.40,2019,6,NULL,618,Lin,16,"Klei Entertainment",1,simulation
+619,"Crystal Crisis",Jogo,40.50,2019,5,NULL,619,Win,16,Nicalis,2,Puzzle
+620,"Dry Drowning",Jogo,28.10,2019,5,NULL,620,Win,15,"VLG Publishing",3,"Visual novel"
+621,"Madden NFL 20",Jogo,21.80,2019,3,NULL,621,Win,18,"EA Sports",4,Sports
+622,"Madden NFL 20",Jogo,21.80,2019,3,NULL,622,PS4,18,"EA Sports",4,Sports
+623,"Madden NFL 20",Jogo,21.80,2019,5,NULL,623,XBO,18,"EA Sports",4,Sports
+624,"Asdivine Menace",Jogo,22.30,2019,5,NULL,624,XBO,13,Kemco,2,Role-playing
+625,"Age of Wonders: Planetfall",Jogo,20.30,2019,4,NULL,625,Win,18,"Paradox Interactive",1,"4X, turn-based strategy"
+626,"Age of Wonders: Planetfall",Jogo,20.30,2019,4,NULL,626,PS4,18,"Paradox Interactive",1,"4X, turn-based strategy"
+627,"Age of Wonders: Planetfall",Jogo,20.30,2019,6,NULL,627,XBO,18,"Paradox Interactive",1,"4X, turn-based strategy"
+628,"Illusion of L’Phalcia",Jogo,48.00,2019,6,NULL,628,PS4,14,Kemco,4,Role-playing
+629,"Metal Wolf Chaos XD",Jogo,47.50,2019,6,NULL,629,Win,15,"Devolver Digital",3,"Third-person shooter"
+630,"Metal Wolf Chaos XD",Jogo,47.50,2019,3,NULL,630,PS4,15,"Devolver Digital",3,"Third-person shooter"
+631,"Metal Wolf Chaos XD",Jogo,47.50,2019,6,NULL,631,XBO,15,"Devolver Digital",3,"Third-person shooter"
+632,"Pillars of Eternity: Complete Edition",Jogo,20.60,2019,5,NULL,632,NS,16,"Versus Evil",1,Role-playing
+633,"Sword Art Online: Fatal Bullet Complete Edition",Jogo,45.90,2019,4,NULL,633,NS,17,"Bandai Namco Entertainment",4,"Action role-playing"
+634,"Anodyne 2 - Return to Dust",Jogo,25.20,2019,5,NULL,634,Win,16,"Analgesic Productions",1,Action-adventure
+635,"Anodyne 2 - Return to Dust",Jogo,25.20,2019,5,NULL,635,Mac,16,"Analgesic Productions",1,Action-adventure
+636,"Anodyne 2 - Return to Dust",Jogo,25.20,2019,5,NULL,636,Lin,16,"Analgesic Productions",1,Action-adventure
+637,"The Bard’s Tale Trilogy",Jogo,27.80,2019,6,NULL,637,XBO,16,"inXile Entertainment",3,Roguelike
+638,"Friday the 13th: The Game",Jogo,35.10,2019,4,NULL,638,NS,14,"Gun Media",3,"Survival horror"
+639,"Rebel Galaxy Outlaw",Jogo,29.30,2019,5,NULL,639,Win,17,"Double Damage Games",1,"Space flight simulation"
+640,"Ion Fury",Jogo,27.10,2019,5,NULL,640,Win,17,"3D Realms",3,"First-person shooter"
+641,"Ion Fury",Jogo,27.10,2019,3,NULL,641,Mac,17,"3D Realms",3,"First-person shooter"
+642,"Ion Fury",Jogo,27.10,2019,3,NULL,642,Lin,17,"3D Realms",3,"First-person shooter"
+643,"Vasara HD Collection",Jogo,37.60,2019,4,NULL,643,NS,15,"QUByte Interactive",1,"Shoot ’em up"
+644,"Vasara HD Collection",Jogo,37.60,2019,3,NULL,644,PS4,15,"QUByte Interactive",1,"Shoot ’em up"
+645,"Vasara HD Collection",Jogo,37.60,2019,3,NULL,645,XBO,15,"QUByte Interactive",1,"Shoot ’em up"
+646,"Grandia HD Collection",Jogo,19.70,2019,4,NULL,646,NS,18,"GungHo Online Entertainment",3,Role-playing
+647,"FAR: Lone Sails",Jogo,46.40,2019,5,NULL,647,NS,16,Mixtvision,3,"Vehicle adventure"
+648,Rad,Jogo,18.80,2019,5,NULL,648,Win,16,"Bandai Namco Entertainment",2,Roguelike
+649,Rad,Jogo,18.80,2019,3,NULL,649,NS,16,"Bandai Namco Entertainment",2,Roguelike
+650,Rad,Jogo,18.80,2019,5,NULL,650,PS4,16,"Bandai Namco Entertainment",2,Roguelike
+651,Rad,Jogo,18.80,2019,4,NULL,651,Win,16,"Bandai Namco Entertainment",2,Roguelike
+652,"Remnant: From the Ashes",Jogo,23.60,2019,4,NULL,652,Win,17,"Perfect World Entertainment",1,"Third-person shooter, action-adventure"
+653,"Remnant: From the Ashes",Jogo,23.60,2019,5,NULL,653,PS4,17,"Perfect World Entertainment",1,"Third-person shooter, action-adventure"
+654,"Remnant: From the Ashes",Jogo,23.60,2019,6,NULL,654,XBO,17,"Perfect World Entertainment",1,"Third-person shooter, action-adventure"
+655,"Yakuza 3[B]",Jogo,44.00,2019,3,NULL,655,PS4,15,Sega,1,Action-adventure
+656,"Yu-Gi-Oh! Legacy of the Duelist: Link Evolution[B]",Jogo,42.00,2019,5,NULL,656,NS,16,Konami,1,"Turn-based strategy"
+657,"Life Is Strange 2 – Episode 4: Faith",Jogo,43.20,2019,5,NULL,657,Win,16,"Square Enix",2,"Graphic adventure"
+658,"Life Is Strange 2 – Episode 4: Faith",Jogo,43.20,2019,4,NULL,658,PS4,16,"Square Enix",2,"Graphic adventure"
+659,"Life Is Strange 2 – Episode 4: Faith",Jogo,43.20,2019,5,NULL,659,XBO,16,"Square Enix",2,"Graphic adventure"
+660,Oninaki,Jogo,32.50,2019,4,NULL,660,Win,13,"Square Enix",1,Role-playing
+661,Oninaki,Jogo,32.50,2019,4,NULL,661,NS,13,"Square Enix",1,Role-playing
+662,Oninaki,Jogo,32.50,2019,3,NULL,662,PS4,13,"Square Enix",1,Role-playing
+663,"Tokyo Chronos[A]",Jogo,36.80,2019,5,NULL,663,PS4,16,"Sekai Project",1,Adventure
+664,"Ancestors: The Humankind Odyssey",Jogo,34.70,2019,6,NULL,664,Win,16,"Private Division",3,Survival
+665,"The Bard’s Tale IV: Director’s Cut",Jogo,20.10,2019,4,NULL,665,PS4,16,"inXile Entertainment",2,Roguelike
+666,Control,Jogo,30.60,2019,4,NULL,666,Win,17,"505 Games",2,"Third-person shooter, action-adventure"
+667,Control,Jogo,30.60,2019,5,NULL,667,PS4,17,"505 Games",2,"Third-person shooter, action-adventure"
+668,Control,Jogo,30.60,2019,5,NULL,668,XBO,17,"505 Games",2,"Third-person shooter, action-adventure"
+669,Crystar[B],Jogo,36.10,2019,5,NULL,669,Win,13,"Spike Chunsoft",1,"Action role-playing"
+670,Crystar[B],Jogo,36.10,2019,5,NULL,670,PS4,13,"Spike Chunsoft",1,"Action role-playing"
+671,"Hunt: Showdown",Jogo,22.00,2019,4,NULL,671,Win,17,Crytek,2,"First-person shooter, survival horror"
+672,Minoria,Jogo,34.10,2019,5,NULL,672,Win,15,"Dangen Entertainment",1,Metroidvania
+673,Minoria,Jogo,34.10,2019,3,NULL,673,NS,15,"Dangen Entertainment",1,Metroidvania
+674,"World of Warcraft Classic",Jogo,41.70,2019,4,NULL,674,Win,15,"Blizzard Entertainment",1,Role-playing
+675,"World of Warcraft Classic",Jogo,41.70,2019,6,NULL,675,Mac,15,"Blizzard Entertainment",1,Role-playing
+676,"Pokémon Masters",Jogo,28.70,2019,4,NULL,676,iOS,16,DeNA,4,Role-playing
+677,"Pokémon Masters",Jogo,28.70,2019,5,NULL,677,Droid,16,DeNA,4,Role-playing
+678,"Azur Lane: Crosswave[A]",Jogo,49.30,2019,4,NULL,678,PS4,14,"Idea Factory",1,"Action role-playing"
+679,"Bubsy: Paws on Fire!",Jogo,28.50,2019,4,NULL,679,NS,18,"UFO Interactive Games",3,Platformer
+680,"Astral Chain",Jogo,28.80,2019,3,NULL,680,NS,16,Nintendo,4,Action
+681,"Blair Witch",Jogo,21.40,2019,3,NULL,681,Win,18,"Lionsgate Games",3,"Survival horror"
+682,"Blair Witch",Jogo,21.40,2019,6,NULL,682,XBO,18,"Lionsgate Games",3,"Survival horror"
+683,"Psychedelica of the Ashen Hawk",Jogo,31.10,2019,5,NULL,683,Win,17,"Intragames, Idea Factory",1,"Visual novel"
+684,"The Dark Pictures: Man of Medan",Jogo,47.10,2019,5,NULL,684,Win,18,"Bandai Namco Entertainment",3,"Adventure, survival horror"
+685,"The Dark Pictures: Man of Medan",Jogo,47.10,2019,6,NULL,685,PS4,18,"Bandai Namco Entertainment",3,"Adventure, survival horror"
+686,"The Dark Pictures: Man of Medan",Jogo,47.10,2019,4,NULL,686,XBO,18,"Bandai Namco Entertainment",3,"Adventure, survival horror"
+687,"The Ninja Saviors: Return of the Warriors",Jogo,44.00,2019,4,NULL,687,NS,18,"ININ Games",1,"Beat ’em up"
+688,"The Ninja Saviors: Return of the Warriors",Jogo,44.00,2019,6,NULL,688,PS4,18,"ININ Games",1,"Beat ’em up"
+689,"Children of Morta",Jogo,43.80,2019,5,NULL,689,Win,13,"11 Bit Studios",2,"Action role-playing"
+690,"Children of Morta",Jogo,43.80,2019,5,NULL,690,Mac,13,"11 Bit Studios",2,"Action role-playing"
+691,"Final Fantasy VIII Remastered",Jogo,27.10,2019,4,NULL,691,Win,15,"Square Enix",3,Role-playing
+692,"Final Fantasy VIII Remastered",Jogo,27.10,2019,3,NULL,692,NS,15,"Square Enix",3,Role-playing
+693,"Final Fantasy VIII Remastered",Jogo,27.10,2019,6,NULL,693,PS4,15,"Square Enix",3,Role-playing
+694,"Final Fantasy VIII Remastered",Jogo,27.10,2019,5,NULL,694,Win,15,"Square Enix",3,Role-playing
+695,"Root Letter: Last Answer[B]",Jogo,34.50,2019,4,NULL,695,NS,13,PQube,1,"Visual novel"
+696,"Root Letter: Last Answer[B]",Jogo,34.50,2019,5,NULL,696,PS4,13,PQube,1,"Visual novel"
+697,"Spyro Reignited Trilogy",Jogo,25.60,2019,5,NULL,697,Win,13,Activision,3,Platform
+698,"Spyro Reignited Trilogy",Jogo,25.60,2019,6,NULL,698,NS,13,Activision,3,Platform
+699,"Deadly Premonition: Origins",Jogo,16.50,2019,5,NULL,699,NS,15,"Rising Star Games",3,"Survival horror"
+700,"Divinity: Original Sin II",Jogo,35.70,2019,4,NULL,700,NS,17,"Bandai Namco Entertainment",1,Role-playing
+701,"River City Girls",Jogo,24.30,2019,4,NULL,701,Win,16,"Arc System Works",4,"Beat ’em up"
+702,"River City Girls",Jogo,24.30,2019,4,NULL,702,NS,16,"Arc System Works",4,"Beat ’em up"
+703,"River City Girls",Jogo,24.30,2019,5,NULL,703,PS4,16,"Arc System Works",4,"Beat ’em up"
+704,"River City Girls",Jogo,24.30,2019,6,NULL,704,Win,16,"Arc System Works",4,"Beat ’em up"
+705,"Monster Hunter World: Iceborne",Jogo,27.50,2019,3,NULL,705,PS4,15,Capcom,4,Action-adventure
+706,"Monster Hunter World: Iceborne",Jogo,27.50,2019,5,NULL,706,XBO,15,Capcom,4,Action-adventure
+707,"NBA 2K20",Jogo,27.80,2019,4,NULL,707,Win,18,"2K Sports",2,Sports
+708,"NBA 2K20",Jogo,27.80,2019,4,NULL,708,NS,18,"2K Sports",2,Sports
+709,"NBA 2K20",Jogo,27.80,2019,5,NULL,709,PS4,18,"2K Sports",2,Sports
+710,"NBA 2K20",Jogo,27.80,2019,5,NULL,710,Win,18,"2K Sports",2,Sports
+711,"eFootball Pro Evolution Soccer 2020",Jogo,27.20,2019,5,NULL,711,Win,13,Konami,1,Sports
+712,"eFootball Pro Evolution Soccer 2020",Jogo,27.20,2019,3,NULL,712,PS4,13,Konami,1,Sports
+713,"eFootball Pro Evolution Soccer 2020",Jogo,27.20,2019,5,NULL,713,XBO,13,Konami,1,Sports
+714,"Gears 5",Jogo,17.60,2019,6,NULL,714,Win,16,"Xbox Game Studios",4,"Third-person shooter"
+715,"Gears 5",Jogo,17.60,2019,5,NULL,715,XBO,16,"Xbox Game Studios",4,"Third-person shooter"
+716,GreedFall,Jogo,33.40,2019,5,NULL,716,Win,14,"Focus Home Interactive",2,"Action role-playing"
+717,GreedFall,Jogo,33.40,2019,4,NULL,717,PS4,14,"Focus Home Interactive",2,"Action role-playing"
+718,GreedFall,Jogo,33.40,2019,6,NULL,718,XBO,14,"Focus Home Interactive",2,"Action role-playing"
+719,"Utawarerumono Zan",Jogo,36.90,2019,4,NULL,719,PS4,13,"NIS America",1,"Action role-playing, beat ’em up"
+720,"Borderlands 3",Jogo,27.50,2019,4,NULL,720,Win,15,"2K Games",2,"First-person shooter"
+721,"Borderlands 3",Jogo,27.50,2019,6,NULL,721,PS4,15,"2K Games",2,"First-person shooter"
+722,"Borderlands 3",Jogo,27.50,2019,4,NULL,722,XBO,15,"2K Games",2,"First-person shooter"
+723,"Daemon X Machina",Jogo,37.20,2019,3,NULL,723,NS,16,Nintendo,2,"Action, third-person shooter"
+724,"NHL 20",Jogo,39.50,2019,5,NULL,724,PS4,18,"EA Sports",1,Sports
+725,"NHL 20",Jogo,39.50,2019,4,NULL,725,XBO,18,"EA Sports",1,Sports
+726,"AI: The Somnium Files",Jogo,29.10,2019,4,NULL,726,Win,14,"Spike Chunsoft",2,Adventure
+727,"AI: The Somnium Files",Jogo,29.10,2019,4,NULL,727,NS,14,"Spike Chunsoft",2,Adventure
+728,"AI: The Somnium Files",Jogo,29.10,2019,6,NULL,728,PS4,14,"Spike Chunsoft",2,Adventure
+729,"Lego Jurassic World",Jogo,37.50,2019,5,NULL,729,NS,17,"Warner Bros. Interactive Entertainment",3,Action-adventure
+730,"Reel Fishing: Road Trip Adventure",Jogo,19.50,2019,4,NULL,730,NS,15,Natsume,1,Fishing
+731,"Reel Fishing: Road Trip Adventure",Jogo,19.50,2019,4,NULL,731,PS4,15,Natsume,1,Fishing
+732,"Devil May Cry 2",Jogo,23.00,2019,5,NULL,732,NS,16,Capcom,2,"Action-adventure, hack and slash"
+733,"Sayonara Wild Hearts",Jogo,32.30,2019,5,NULL,733,NS,15,"Annapurna Interactive",4,Music
+734,"Sayonara Wild Hearts",Jogo,32.30,2019,4,NULL,734,PS4,15,"Annapurna Interactive",4,Music
+735,"Shakedown: Hawaii",Jogo,20.80,2019,5,NULL,735,3DS,15,"Vblank Entertainment",4,Action-adventure
+736,"Shantae and the Seven Sirens",Jogo,23.00,2019,4,NULL,736,iOS,17,WayForward,3,Platforming
+737,"Sonic Racing",Jogo,32.50,2019,4,NULL,737,iOS,17,Sega,4,Racing
+738,"The Legend of Zelda: Link’s Awakening",Jogo,48.00,2019,3,NULL,738,NS,16,Nintendo,3,Action-adventure
+739,"Untitled Goose Game",Jogo,48.90,2019,6,NULL,739,Win,18,"Panic Inc.",1,Stealth
+740,"Untitled Goose Game",Jogo,48.90,2019,4,NULL,740,NS,18,"Panic Inc.",1,Stealth
+741,"Ni no Kuni: Wrath of the White Witch",Jogo,46.40,2019,3,NULL,741,NS,17,"Bandai Namco Entertainment",2,Role-playing
+742,"Ni no Kuni: Wrath of the White Witch Remastered",Jogo,20.50,2019,3,NULL,742,Win,14,"Bandai Namco Entertainment",4,Role-playing
+743,"Ni no Kuni: Wrath of the White Witch Remastered",Jogo,20.50,2019,5,NULL,743,PS4,14,"Bandai Namco Entertainment",4,Role-playing
+744,"Baldur’s Gate: Enhanced Edition",Jogo,27.90,2019,5,NULL,744,NS,17,"Skybound Games",2,Role-playing
+745,"Baldur’s Gate: Enhanced Edition",Jogo,27.90,2019,4,NULL,745,PS4,17,"Skybound Games",2,Role-playing
+746,"Baldur’s Gate: Enhanced Edition",Jogo,27.90,2019,6,NULL,746,XBO,17,"Skybound Games",2,Role-playing
+747,"Baldur’s Gate: Siege of Dragonspear",Jogo,33.30,2019,5,NULL,747,NS,17,"Skybound Games",3,Role-playing
+748,"Baldur’s Gate: Siege of Dragonspear",Jogo,33.30,2019,5,NULL,748,PS4,17,"Skybound Games",3,Role-playing
+749,"Baldur’s Gate: Siege of Dragonspear",Jogo,33.30,2019,3,NULL,749,XBO,17,"Skybound Games",3,Role-playing
+750,"Baldur’s Gate II: Enhanced Edition",Jogo,49.00,2019,5,NULL,750,NS,18,"Skybound Games",4,Role-playing
+751,"Baldur’s Gate II: Enhanced Edition",Jogo,49.00,2019,6,NULL,751,PS4,18,"Skybound Games",4,Role-playing
+752,"Baldur’s Gate II: Enhanced Edition",Jogo,49.00,2019,4,NULL,752,XBO,18,"Skybound Games",4,Role-playing
+753,"Contra: Rogue Corps",Jogo,18.20,2019,5,NULL,753,Win,18,Konami,2,"Run and gun"
+754,"Contra: Rogue Corps",Jogo,18.20,2019,4,NULL,754,NS,18,Konami,2,"Run and gun"
+755,"Contra: Rogue Corps",Jogo,18.20,2019,5,NULL,755,PS4,18,Konami,2,"Run and gun"
+756,"Contra: Rogue Corps",Jogo,18.20,2019,4,NULL,756,Win,18,Konami,2,"Run and gun"
+757,"Icewind Dale: Enhanced Edition",Jogo,30.60,2019,3,NULL,757,NS,14,"Skybound Games",4,Role-playing
+758,"Icewind Dale: Enhanced Edition",Jogo,30.60,2019,3,NULL,758,PS4,14,"Skybound Games",4,Role-playing
+759,"Icewind Dale: Enhanced Edition",Jogo,30.60,2019,5,NULL,759,XBO,14,"Skybound Games",4,Role-playing
+760,"Planescape: Torment: Enhanced Edition",Jogo,35.90,2019,4,NULL,760,NS,17,"Skybound Games",4,Role-playing
+761,"Planescape: Torment: Enhanced Edition",Jogo,35.90,2019,5,NULL,761,PS4,17,"Skybound Games",4,Role-playing
+762,"Planescape: Torment: Enhanced Edition",Jogo,35.90,2019,4,NULL,762,XBO,17,"Skybound Games",4,Role-playing
+763,"The Surge 2",Jogo,49.00,2019,3,NULL,763,Win,13,"Focus Home Interactive",4,"Action role-playing"
+764,"The Surge 2",Jogo,49.00,2019,4,NULL,764,PS4,13,"Focus Home Interactive",4,"Action role-playing"
+765,"The Surge 2",Jogo,49.00,2019,4,NULL,765,XBO,13,"Focus Home Interactive",4,"Action role-playing"
+766,"Mario Kart Tour",Jogo,30.00,2019,4,NULL,766,iOS,14,Nintendo,2,"Kart racing"
+767,"Mario Kart Tour",Jogo,30.00,2019,4,NULL,767,Droid,14,Nintendo,2,"Kart racing"
+768,"Darksiders II: Deathinitive Edition",Jogo,48.20,2019,3,NULL,768,NS,17,"THQ Nordic",4,"Action role-playing, hack and slash"
+769,"Gunvolt Chronicles: Luminous Avenger iX",Jogo,17.30,2019,5,NULL,769,Win,15,"Inti Creates",3,Action
+770,"Gunvolt Chronicles: Luminous Avenger iX",Jogo,17.30,2019,4,NULL,770,NS,15,"Inti Creates",3,Action
+771,"Gunvolt Chronicles: Luminous Avenger iX",Jogo,17.30,2019,6,NULL,771,PS4,15,"Inti Creates",3,Action
+772,"Gunvolt Chronicles: Luminous Avenger iX",Jogo,17.30,2019,6,NULL,772,Win,15,"Inti Creates",3,platform
+773,"Gunvolt Chronicles: Luminous Avenger iX",Jogo,17.30,2019,4,NULL,773,NS,15,"Inti Creates",3,platform
+774,"Gunvolt Chronicles: Luminous Avenger iX",Jogo,17.30,2019,5,NULL,774,PS4,15,"Inti Creates",3,platform
+775,"Ys IX: Monstrum Nox[A]",Jogo,29.20,2019,5,NULL,775,PS4,15,"Nihon Falcom",1,Role-playing
+776,"Code Vein",Jogo,27.20,2019,3,NULL,776,Win,14,"Bandai Namco Entertainment",3,"Action role-playing"
+777,"Code Vein",Jogo,27.20,2019,5,NULL,777,PS4,14,"Bandai Namco Entertainment",3,"Action role-playing"
+778,"Code Vein",Jogo,27.20,2019,3,NULL,778,XBO,14,"Bandai Namco Entertainment",3,"Action role-playing"
+779,"Dragon Quest",Jogo,42.20,2019,3,NULL,779,NS,17,"Square Enix",3,Role-playing
+780,"Dragon Quest II",Jogo,46.10,2019,6,NULL,780,NS,14,"Square Enix",1,Role-playing
+781,"Dragon Quest III",Jogo,49.90,2019,6,NULL,781,NS,15,"Square Enix",1,Role-playing
+782,"Dragon Quest XI S",Jogo,29.20,2019,4,NULL,782,NS,15,Nintendo,3,Role-playing
+783,"FIFA 20",Jogo,41.00,2019,4,NULL,783,Win,15,"EA Sports",2,Sports
+784,"FIFA 20",Jogo,41.00,2019,5,NULL,784,NS,15,"EA Sports",2,Sports
+785,"FIFA 20",Jogo,41.00,2019,4,NULL,785,PS4,15,"EA Sports",2,Sports
+786,"FIFA 20",Jogo,41.00,2019,6,NULL,786,Win,15,"EA Sports",2,Sports
+787,Memorrha,Jogo,17.80,2019,5,NULL,787,PS4,17,StickyStoneStudio,1,"Puzzle adventure"
+788,"Ori and the Blind Forest",Jogo,22.20,2019,5,NULL,788,NS,15,"Microsoft Studios",4,Platform
+789,"Tropico 6",Jogo,20.50,2019,6,NULL,789,PS4,17,"Kalypso Media",2,"Construction and management simulation"
+790,"Tropico 6",Jogo,20.50,2019,4,NULL,790,XBO,17,"Kalypso Media",2,"Construction and management simulation"
+791,"Cube World",Jogo,19.60,2019,3,NULL,791,Win,18,Picroma,3,"Action role-playing"
+792,"Destiny 2: Shadowkeep",Jogo,38.60,2019,4,NULL,792,Win,14,Bungie,2,"Action role-playing, first-person shooter"
+793,"Destiny 2: Shadowkeep",Jogo,38.60,2019,6,NULL,793,PS4,14,Bungie,2,"Action role-playing, first-person shooter"
+794,"Destiny 2: Shadowkeep",Jogo,38.60,2019,4,NULL,794,XBO,14,Bungie,2,"Action role-playing, first-person shooter"
+795,"Mobile Suit Gundam: Battle Operation 2[B]",Jogo,21.20,2019,5,NULL,795,PS4,15,"Bandai Namco Entertainment",3,Action
+796,"ReadySet Heroes",Jogo,44.60,2019,4,NULL,796,Win,13,"Sony Interactive Entertainment",1,Action
+797,"ReadySet Heroes",Jogo,44.60,2019,5,NULL,797,PS4,13,"Sony Interactive Entertainment",1,Action
+798,"What the Golf?",Jogo,26.60,2019,5,NULL,798,Win,18,"The Label",1,Puzzle
+799,"What the Golf?",Jogo,26.60,2019,3,NULL,799,iOS,18,"The Label",1,Puzzle
+800,"YU-NO: A Girl Who Chants Love at the Bound of this World[B]",Jogo,29.10,2019,4,NULL,800,Win,15,"Spike Chunsoft",1,"Adventure, visual novel"
+801,"YU-NO: A Girl Who Chants Love at the Bound of this World[B]",Jogo,29.10,2019,4,NULL,801,NS,15,"Spike Chunsoft",1,"Adventure, visual novel"
+802,"YU-NO: A Girl Who Chants Love at the Bound of this World[B]",Jogo,29.10,2019,6,NULL,802,PS4,15,"Spike Chunsoft",1,"Adventure, visual novel"
+803,"One Night Stand",Jogo,16.90,2019,6,NULL,803,PS4,16,"Ratalaika Games",3,"Visual novel"
+804,"One Night Stand",Jogo,16.90,2019,4,NULL,804,XBO,16,"Ratalaika Games",3,"Visual novel"
+805,"Fault Milestone One",Jogo,31.70,2019,5,NULL,805,NS,14,"Sekai Project",2,"Visual novel"
+806,"Ciconia When They Cry – Phase 1: For You, the Replaceable Ones",Jogo,30.40,2019,3,NULL,806,Win,15,"07th Expansion, MangaGamer",2,"Visual novel"
+807,"Ciconia When They Cry – Phase 1: For You, the Replaceable Ones",Jogo,30.40,2019,3,NULL,807,Mac,15,"07th Expansion, MangaGamer",2,"Visual novel"
+808,"Ghostbusters: The Video Game Remastered",Jogo,24.60,2019,4,NULL,808,Win,14,"Mad Dog Games",4,"Third-person shooter"
+809,"Ghostbusters: The Video Game Remastered",Jogo,24.60,2019,5,NULL,809,NS,14,"Mad Dog Games",4,"Third-person shooter"
+810,"Ghostbusters: The Video Game Remastered",Jogo,24.60,2019,4,NULL,810,PS4,14,"Mad Dog Games",4,"Third-person shooter"
+811,"Ghostbusters: The Video Game Remastered",Jogo,24.60,2019,5,NULL,811,Win,14,"Mad Dog Games",4,"Third-person shooter"
+812,"One Night Stand",Jogo,26.70,2019,4,NULL,812,NS,14,"Ratalaika Games",2,"Visual novel"
+813,"Tom Clancy’s Ghost Recon Breakpoint",Jogo,16.60,2019,3,NULL,813,Win,13,Ubisoft,2,"Tactical shooter"
+814,"Tom Clancy’s Ghost Recon Breakpoint",Jogo,16.60,2019,4,NULL,814,PS4,13,Ubisoft,2,"Tactical shooter"
+815,"Tom Clancy’s Ghost Recon Breakpoint",Jogo,16.60,2019,5,NULL,815,XBO,13,Ubisoft,2,"Tactical shooter"
+816,"Shantae and the Seven Sirens",Jogo,39.60,2019,4,NULL,816,Mac,16,WayForward,4,Platforming
+817,"The Alliance Alive HD Remastered",Jogo,47.60,2019,3,NULL,817,NS,14,"NIS America",3,Role-playing
+818,"The Alliance Alive HD Remastered",Jogo,47.60,2019,6,NULL,818,PS4,14,"NIS America",3,Role-playing
+819,"BurgerTime Party!",Jogo,18.50,2019,5,NULL,819,NS,18,"Xseed Games",2,Action
+820,"BurgerTime Party!",Jogo,18.50,2019,5,NULL,820,NS,18,"Xseed Games",2,puzzle
+821,"Concrete Genie",Jogo,36.60,2019,3,NULL,821,PS4,17,"Sony Interactive Entertainment",2,Action-adventure
+822,"Trine 4: The Nightmare Prince",Jogo,42.80,2019,3,NULL,822,Win,14,"Modus Games",2,Platform
+823,"Trine 4: The Nightmare Prince",Jogo,42.80,2019,6,NULL,823,NS,14,"Modus Games",2,Platform
+824,"Trine 4: The Nightmare Prince",Jogo,42.80,2019,5,NULL,824,PS4,14,"Modus Games",2,Platform
+825,"Trine 4: The Nightmare Prince",Jogo,42.80,2019,3,NULL,825,Win,14,"Modus Games",2,Platform
+826,Indivisible,Jogo,18.00,2019,6,NULL,826,Win,18,"505 Games",1,"Action RPG"
+827,Indivisible,Jogo,18.00,2019,3,NULL,827,PS4,18,"505 Games",1,"Action RPG"
+828,Indivisible,Jogo,18.00,2019,5,NULL,828,XBO,18,"505 Games",1,"Action RPG"
+829,"Yooka-Laylee and the Impossible Lair",Jogo,30.10,2019,6,NULL,829,Win,15,Team17,3,Platform
+830,"Yooka-Laylee and the Impossible Lair",Jogo,30.10,2019,3,NULL,830,NS,15,Team17,3,Platform
+831,"Yooka-Laylee and the Impossible Lair",Jogo,30.10,2019,6,NULL,831,PS4,15,Team17,3,Platform
+832,"Yooka-Laylee and the Impossible Lair",Jogo,30.10,2019,4,NULL,832,Win,15,Team17,3,Platform
+833,"Corpse Party: Blood Drive",Jogo,25.50,2019,5,NULL,833,Win,14,"Marvelous USA / Marvelous Europe",4,"Survival horror"
+834,"Corpse Party: Blood Drive",Jogo,25.50,2019,4,NULL,834,NS,14,"Marvelous USA / Marvelous Europe",4,"Survival horror"
+835,"River City Melee Mach!!",Jogo,26.50,2019,5,NULL,835,Win,13,"Arc System Works",3,Action
+836,"River City Melee Mach!!",Jogo,26.50,2019,4,NULL,836,NS,13,"Arc System Works",3,Action
+837,"River City Melee Mach!!",Jogo,26.50,2019,6,NULL,837,PS4,13,"Arc System Works",3,Action
+838,Valfaris,Jogo,32.00,2019,5,NULL,838,Win,13,"Merge Games",1,"Action platformer"
+839,Valfaris,Jogo,32.00,2019,5,NULL,839,NS,13,"Merge Games",1,"Action platformer"
+840,"Doraemon Story of Seasons[B]",Jogo,45.30,2019,5,NULL,840,Win,13,"Bandai Namco Entertainment",1,"Farm simulation, role-playing"
+841,"Doraemon Story of Seasons[B]",Jogo,45.30,2019,5,NULL,841,NS,13,"Bandai Namco Entertainment",1,"Farm simulation, role-playing"
+842,Frostpunk,Jogo,32.10,2019,5,NULL,842,PS4,13,"11 Bit Studios",1,City-building
+843,Frostpunk,Jogo,32.10,2019,6,NULL,843,XBO,13,"11 Bit Studios",1,City-building
+844,Grid,Jogo,19.00,2019,4,NULL,844,Win,14,Codemasters,3,Racing
+845,Grid,Jogo,19.00,2019,3,NULL,845,PS4,14,Codemasters,3,Racing
+846,Grid,Jogo,19.00,2019,6,NULL,846,XBO,14,Codemasters,3,Racing
+847,"Killer Queen Black",Jogo,30.10,2019,4,NULL,847,Win,18,"BumbleBear Games",4,"Real-time strategy"
+848,"Killer Queen Black",Jogo,30.10,2019,3,NULL,848,NS,18,"BumbleBear Games",4,"Real-time strategy"
+849,"Children of Morta",Jogo,39.20,2019,5,NULL,849,PS4,16,"11 Bit Studios",3,"Action role-playing"
+850,"Children of Morta",Jogo,39.20,2019,4,NULL,850,XBO,16,"11 Bit Studios",3,"Action role-playing"
+851,"Disco Elysium",Jogo,37.40,2019,3,NULL,851,Win,16,ZA/UM,4,Role-playing
+852,"Earth Defense Force: Iron Rain",Jogo,25.20,2019,4,NULL,852,Win,18,"D3 Publisher",3,"Third-person shooter"
+853,"Grandia HD Remaster",Jogo,19.70,2019,5,NULL,853,Win,17,"GungHo Online Entertainment",1,Role-playing
+854,"Overwatch: Legendary Edition",Jogo,22.70,2019,5,NULL,854,NS,17,"Blizzard Entertainment",2,"First-person shooter"
+855,"Steins;Gate Elite[A]",Jogo,40.90,2019,4,NULL,855,iOS,17,Mages,3,"Visual novel"
+856,"The Witcher 3: Wild Hunt Complete Edition",Jogo,35.30,2019,5,NULL,856,NS,18,"Warner Bros. Interactive Entertainment",3,"Action role-playing"
+857,"Little Town Hero",Jogo,27.20,2019,5,NULL,857,NS,18,"Game Freak",4,Role-playing
+858,"Monkey King: Hero is Back",Jogo,35.80,2019,3,NULL,858,Win,15,"THQ Nordic",2,Action-adventure
+859,"Monkey King: Hero is Back",Jogo,35.80,2019,6,NULL,859,PS4,15,"THQ Nordic",2,Action-adventure
+860,"Stranded Sails: Explorers of the Cursed Islands",Jogo,16.40,2019,3,NULL,860,Win,15,"rokaplay, Merge Games",1,Adventure
+861,"Stranded Sails: Explorers of the Cursed Islands",Jogo,16.40,2019,5,NULL,861,NS,15,"rokaplay, Merge Games",1,Adventure
+862,"Stranded Sails: Explorers of the Cursed Islands",Jogo,16.40,2019,3,NULL,862,PS4,15,"rokaplay, Merge Games",1,Adventure
+863,"Stranded Sails: Explorers of the Cursed Islands",Jogo,16.40,2019,5,NULL,863,Win,15,"rokaplay, Merge Games",1,Adventure
+864,"Travis Strikes Again: No More Heroes Complete Edition",Jogo,19.70,2019,6,NULL,864,Win,16,Marvelous,2,Action-adventure
+865,"Travis Strikes Again: No More Heroes Complete Edition",Jogo,19.70,2019,4,NULL,865,PS4,16,Marvelous,2,Action-adventure
+866,Vectronom,Jogo,34.30,2019,4,NULL,866,iOS,15,"ARTE Experience",4,Rhythm
+867,Vectronom,Jogo,34.30,2019,4,NULL,867,Droid,15,"ARTE Experience",4,Rhythm
+868,"Digimon Story Cyber Sleuth: Complete Edition",Jogo,39.60,2019,5,NULL,868,Win,18,"Bandai Namco Entertainment",3,Role-playing
+869,"Digimon Story Cyber Sleuth: Complete Edition",Jogo,39.60,2019,3,NULL,869,NS,18,"Bandai Namco Entertainment",3,Role-playing
+870,"Ice Age: Scrat’s Nutty Adventure",Jogo,18.00,2019,6,NULL,870,Win,18,"Outright Games",3,Platform
+871,"Ice Age: Scrat’s Nutty Adventure",Jogo,18.00,2019,5,NULL,871,NS,18,"Outright Games",3,Platform
+872,"Ice Age: Scrat’s Nutty Adventure",Jogo,18.00,2019,5,NULL,872,PS4,18,"Outright Games",3,Platform
+873,"Ice Age: Scrat’s Nutty Adventure",Jogo,18.00,2019,4,NULL,873,Win,18,"Outright Games",3,Platform
+874,"Plants vs Zombies: Battle for Neighborville",Jogo,17.20,2019,5,NULL,874,Win,18,"Electronic Arts",1,"Third-person shooter"
+875,"Plants vs Zombies: Battle for Neighborville",Jogo,17.20,2019,5,NULL,875,PS4,18,"Electronic Arts",1,"Third-person shooter"
+876,"Plants vs Zombies: Battle for Neighborville",Jogo,17.20,2019,5,NULL,876,XBO,18,"Electronic Arts",1,"Third-person shooter"
+877,"Return of the Obra Dinn",Jogo,24.30,2019,5,NULL,877,NS,15,3909,4,Puzzle
+878,"Return of the Obra Dinn",Jogo,24.30,2019,5,NULL,878,PS4,15,3909,4,Puzzle
+879,"Return of the Obra Dinn",Jogo,24.30,2019,4,NULL,879,XBO,15,3909,4,Puzzle
+880,"Ring Fit Adventure",Jogo,29.90,2019,3,NULL,880,NS,13,Nintendo,2,Adventure
+881,"Ring Fit Adventure",Jogo,29.90,2019,5,NULL,881,NS,13,Nintendo,2,Fitness
+882,"Raging Loop[B]",Jogo,38.60,2019,4,NULL,882,NS,17,PQube,2,"Visual novel"
+883,"Raging Loop[B]",Jogo,38.60,2019,4,NULL,883,PS4,17,PQube,2,"Visual novel"
+884,"The Legend of Heroes: Trails of Cold Steel III[B]",Jogo,25.70,2019,6,NULL,884,PS4,15,"Xseed Games",1,Role-playing
+885,"Skullgirls 2nd Encore",Jogo,43.40,2019,5,NULL,885,NS,14,"Skybound Games",1,Fighting
+886,"WWE 2K20",Jogo,37.10,2019,3,NULL,886,Win,16,"2K Sports",2,Sports
+887,"WWE 2K20",Jogo,37.10,2019,4,NULL,887,PS4,16,"2K Sports",2,Sports
+888,"WWE 2K20",Jogo,37.10,2019,4,NULL,888,XBO,16,"2K Sports",2,Sports
+889,"Corpse Party 2: Dead Patient – Chapter 1[B]",Jogo,45.00,2019,3,NULL,889,Win,15,"Xseed Games, Marvelous USA",2,"Survival horror"
+890,"Dusk Diver[B]",Jogo,16.60,2019,4,NULL,890,NS,13,PQube,2,"Action role-playing"
+891,"Dusk Diver[B]",Jogo,16.60,2019,4,NULL,891,PS4,13,PQube,2,"Action role-playing"
+892,"Call of Duty: Modern Warfare",Jogo,34.00,2019,4,NULL,892,Win,17,Activision,2,"First-person shooter"
+893,"Call of Duty: Modern Warfare",Jogo,34.00,2019,5,NULL,893,PS4,17,Activision,2,"First-person shooter"
+894,"Call of Duty: Modern Warfare",Jogo,34.00,2019,5,NULL,894,XBO,17,Activision,2,"First-person shooter"
+895,MediEvil,Jogo,27.80,2019,6,NULL,895,PS4,17,"Sony Interactive Entertainment",2,"Action-adventure, hack and slash"
+896,"The Outer Worlds",Jogo,38.00,2019,5,NULL,896,Win,17,"Private Division",3,Role-playing
+897,"The Outer Worlds",Jogo,38.00,2019,3,NULL,897,PS4,17,"Private Division",3,Role-playing
+898,"The Outer Worlds",Jogo,38.00,2019,4,NULL,898,XBO,17,"Private Division",3,Role-playing
+899,Afterparty,Jogo,37.10,2019,4,NULL,899,Win,15,"Night School Studio",3,Adventure
+900,Afterparty,Jogo,37.10,2019,4,NULL,900,PS4,15,"Night School Studio",3,Adventure
+901,Afterparty,Jogo,37.10,2019,5,NULL,901,XBO,15,"Night School Studio",3,Adventure
+902,"Atelier Ryza: Ever Darkness & the Secret Hideout[B]",Jogo,31.10,2019,5,NULL,902,Win,18,"Koei Tecmo",1,Role-playing
+903,"Atelier Ryza: Ever Darkness & the Secret Hideout[B]",Jogo,31.10,2019,5,NULL,903,NS,18,"Koei Tecmo",1,Role-playing
+904,"Atelier Ryza: Ever Darkness & the Secret Hideout[B]",Jogo,31.10,2019,4,NULL,904,PS4,18,"Koei Tecmo",1,Role-playing
+905,"Disgaea 4 Complete+",Jogo,45.60,2019,6,NULL,905,NS,14,"NIS America",4,"Tactical role-playing"
+906,"Disgaea 4 Complete+",Jogo,45.60,2019,3,NULL,906,PS4,14,"NIS America",4,"Tactical role-playing"
+907,"Harvest Moon: Mad Dash",Jogo,27.40,2019,3,NULL,907,NS,14,Natsume,1,Puzzle
+908,"Harvest Moon: Mad Dash",Jogo,27.40,2019,5,NULL,908,PS4,14,Natsume,1,Puzzle
+909,"Resident Evil 5",Jogo,32.10,2019,4,NULL,909,NS,16,Capcom,2,"Survival horror, third-person shooter"
+910,"Resident Evil 6",Jogo,42.80,2019,3,NULL,910,NS,15,Capcom,2,"Survival horror, third-person shooter"
+911,"Super Monkey Ball: Banana Blitz HD",Jogo,27.50,2019,4,NULL,911,NS,17,Sega,2,Platform
+912,"Super Monkey Ball: Banana Blitz HD",Jogo,27.50,2019,4,NULL,912,PS4,17,Sega,2,Platform
+913,"Super Monkey Ball: Banana Blitz HD",Jogo,27.50,2019,4,NULL,913,XBO,17,Sega,2,Platform
+914,Vampyr,Jogo,44.90,2019,5,NULL,914,NS,18,"Focus Home Interactive",1,"Action role-playing"
+915,"Yakuza 4[B]",Jogo,39.90,2019,3,NULL,915,PS4,17,Sega,2,Action-adventure
+916,"Ghost Parade",Jogo,24.10,2019,5,NULL,916,Win,15,"Aksys Games",2,Adventure
+917,"Ghost Parade",Jogo,24.10,2019,5,NULL,917,NS,15,"Aksys Games",2,Adventure
+918,"Ghost Parade",Jogo,24.10,2019,4,NULL,918,PS4,15,"Aksys Games",2,Adventure
+919,"Luigi’s Mansion 3",Jogo,42.30,2019,4,NULL,919,NS,15,Nintendo,2,Action-adventure
+920,"Just Dance 2020",Jogo,27.00,2019,4,NULL,920,PS4,17,Ubisoft,3,Rhythm
+921,"Mario & Sonic at the Olympic Games Tokyo 2020",Jogo,19.40,2019,4,NULL,921,NS,13,Sega,4,Sports
+922,"Planet Zoo",Jogo,33.40,2019,5,NULL,922,Win,18,"Frontier Developments",3,"Construction and management simulation"
+923,"Red Dead Redemption 2",Jogo,24.40,2019,3,NULL,923,Win,18,"Rockstar Games",3,Action-adventure
+924,Valfaris,Jogo,36.00,2019,5,NULL,924,PS4,16,"Merge Games",3,"Action platformer"
+925,"Death Stranding",Jogo,32.80,2019,3,NULL,925,PS4,13,"Sony Interactive Entertainment",3,Action
+926,"Disney Tsum Tsum Festival[B]",Jogo,24.60,2019,4,NULL,926,NS,14,"Bandai Namco Entertainment",4,Puzzle
+927,"Layton’s Mystery Journey: Katrielle and the Millionaire’s Conspiracy – Deluxe Edition[B]",Jogo,30.90,2019,4,NULL,927,NS,17,Level-5,1,"Puzzle adventure"
+928,"Need for Speed Heat",Jogo,25.30,2019,4,NULL,928,Win,15,"Electronic Arts",2,Racing
+929,"Need for Speed Heat",Jogo,25.30,2019,6,NULL,929,PS4,15,"Electronic Arts",2,Racing
+930,"Need for Speed Heat",Jogo,25.30,2019,5,NULL,930,XBO,15,"Electronic Arts",2,Racing
+931,"New Super Lucky’s Tale",Jogo,18.30,2019,5,NULL,931,NS,13,"Playful Corp.",4,Platform
+932,Valfaris,Jogo,36.40,2019,3,NULL,932,XBO,14,"Merge Games",2,"Action platformer"
+933,"Romancing SaGa 3",Jogo,33.40,2019,4,NULL,933,PS4,16,"Square Enix",2,Role-playing
+934,"Age of Empires II: Definitive Edition",Jogo,37.40,2019,3,NULL,934,Win,14,"Xbox Game Studios",2,"Real-time strategy"
+935,"War of the Visions: Final Fantasy Brave Exvius[A]",Jogo,28.60,2019,4,NULL,935,iOS,16,"Square Enix",3,"Tactical role-playing"
+936,"War of the Visions: Final Fantasy Brave Exvius[A]",Jogo,28.60,2019,4,NULL,936,Droid,16,"Square Enix",3,"Tactical role-playing"
+937,"Pokémon Sword and Shield",Jogo,26.60,2019,4,NULL,937,NS,13,"The Pokemon Company, Nintendo",3,Role-playing
+938,"Star Wars Jedi: Fallen Order",Jogo,30.30,2019,4,NULL,938,Win,17,"Electronic Arts",4,Action-adventure
+939,"Star Wars Jedi: Fallen Order",Jogo,30.30,2019,4,NULL,939,PS4,17,"Electronic Arts",4,Action-adventure
+940,"Star Wars Jedi: Fallen Order",Jogo,30.30,2019,4,NULL,940,XBO,17,"Electronic Arts",4,Action-adventure
+941,"Tokyo Ghoul: re Call to Exist",Jogo,47.30,2019,4,NULL,941,Win,18,"Bandai Namco Entertainment",4,Action
+942,"Tokyo Ghoul: re Call to Exist",Jogo,47.30,2019,6,NULL,942,PS4,18,"Bandai Namco Entertainment",4,Action
+943,"Tokyo Ghoul: re Call to Exist",Jogo,47.30,2019,3,NULL,943,Win,18,"Bandai Namco Entertainment",4,survival
+944,"Tokyo Ghoul: re Call to Exist",Jogo,47.30,2019,4,NULL,944,PS4,18,"Bandai Namco Entertainment",4,survival
+945,"Football Manager 2020",Jogo,42.30,2019,4,NULL,945,Win,14,Sega,4,"Sport simulation"
+946,"Football Manager 2020",Jogo,42.30,2019,6,NULL,946,iOS,14,Sega,4,"Sport simulation"
+947,"Football Manager 2020",Jogo,42.30,2019,6,NULL,947,Droid,14,Sega,4,"Sport simulation"
+948,"Shenmue III",Jogo,24.40,2019,6,NULL,948,Win,17,"Deep Silver",3,Action-adventure
+949,"Shenmue III",Jogo,24.40,2019,3,NULL,949,PS4,17,"Deep Silver",3,Action-adventure
+950,"Children of Morta",Jogo,37.40,2019,4,NULL,950,NS,15,"11 Bit Studios",2,"Action role-playing"
+951,"Sniper: Ghost Warrior Contracts",Jogo,40.90,2019,3,NULL,951,Win,18,"CI Games",4,"First-person shooter"
+952,"Sniper: Ghost Warrior Contracts",Jogo,40.90,2019,4,NULL,952,PS4,18,"CI Games",4,"First-person shooter"
+953,"Sniper: Ghost Warrior Contracts",Jogo,40.90,2019,6,NULL,953,XBO,18,"CI Games",4,"First-person shooter"
+954,"Cyber Troopers Virtual-On Masterpiece 1995~2001[A]",Jogo,18.60,2019,3,NULL,954,PS4,18,Sega,2,Action
+955,"SD Gundam G Generation Cross Rays",Jogo,26.10,2019,5,NULL,955,Win,16,"Bandai Namco Entertainment",3,"Tactical role-playing"
+956,"Halo: Reach",Jogo,33.30,2019,6,NULL,956,Win,16,"Xbox Game Studios",1,"First-person shooter"
+957,"Life Is Strange 2 – Episode 5: Wolves",Jogo,35.60,2019,3,NULL,957,Win,16,"Square Enix",3,"Graphic adventure"
+958,"Life Is Strange 2 – Episode 5: Wolves",Jogo,35.60,2019,5,NULL,958,PS4,16,"Square Enix",3,"Graphic adventure"
+959,"Life Is Strange 2 – Episode 5: Wolves",Jogo,35.60,2019,6,NULL,959,XBO,16,"Square Enix",3,"Graphic adventure"
+960,"Neverwinter Nights: Enhanced Edition",Jogo,49.20,2019,4,NULL,960,NS,16,"Skybound Games",4,Role-playing
+961,"Neverwinter Nights: Enhanced Edition",Jogo,49.20,2019,4,NULL,961,PS4,16,"Skybound Games",4,Role-playing
+962,"Neverwinter Nights: Enhanced Edition",Jogo,49.20,2019,4,NULL,962,XBO,16,"Skybound Games",4,Role-playing
+963,"Phoenix Point",Jogo,47.40,2019,3,NULL,963,Win,14,"Snapshot Games",1,"Strategy, turn-based tactics"
+964,"Phoenix Point",Jogo,47.40,2019,5,NULL,964,Mac,14,"Snapshot Games",1,"Strategy, turn-based tactics"
+965,"SaGa: Scarlet Grace - Ambitions",Jogo,41.00,2019,5,NULL,965,PS4,13,"Square Enix",4,Role-playing
+966,"Terminator: Resistance",Jogo,24.00,2019,6,NULL,966,Win,17,"Reef Entertainment",4,"First-person shooter"
+967,"Terminator: Resistance",Jogo,24.00,2019,5,NULL,967,PS4,17,"Reef Entertainment",4,"First-person shooter"
+968,"Terminator: Resistance",Jogo,24.00,2019,5,NULL,968,XBO,17,"Reef Entertainment",4,"First-person shooter"
+969,"Alien: Isolation",Jogo,49.00,2019,4,NULL,969,NS,16,Sega,3,"First-person shooter"
+970,"Darksiders Genesis",Jogo,35.20,2019,5,NULL,970,Win,15,"THQ Nordic",1,"Hack and slash, role-playing"
+971,"Darksiders Genesis",Jogo,35.20,2019,4,NULL,971,Stadia,15,"THQ Nordic",1,"Hack and slash, role-playing"
+972,Interrogation,Jogo,28.80,2019,4,NULL,972,Win,15,Mixtvision,2,"Crime Noir, Role-playing"
+973,Interrogation,Jogo,28.80,2019,6,NULL,973,Mac,15,Mixtvision,2,"Crime Noir, Role-playing"
+974,Interrogation,Jogo,28.80,2019,6,NULL,974,Lin,15,Mixtvision,2,"Crime Noir, Role-playing"
+975,"Raging Loop",Jogo,23.50,2019,5,NULL,975,Win,17,PQube,4,"Visual novel"
+976,"Star Ocean: First Departure R",Jogo,18.50,2019,5,NULL,976,NS,17,"Square Enix",1,Role-playing
+977,"Star Ocean: First Departure R",Jogo,18.50,2019,5,NULL,977,PS4,17,"Square Enix",1,Role-playing
+978,"Ancestors: The Humankind Odyssey",Jogo,27.30,2019,5,NULL,978,PS4,15,"Private Division",1,Survival
+979,"Ancestors: The Humankind Odyssey",Jogo,27.30,2019,6,NULL,979,XBO,15,"Private Division",1,Survival
+980,"Dragon Quest Builders 2",Jogo,34.30,2019,3,NULL,980,Win,17,"Square Enix",1,"Action role-playing, sandbox"
+981,"MechWarrior 5: Mercenaries",Jogo,19.00,2019,3,NULL,981,Win,13,"Piranha Games",4,"Vehicular combat, action"
+982,"Shovel Knight: King of Cards",Jogo,48.80,2019,4,NULL,982,Win,18,"Yacht Club Games",4,Platform
+983,"Shovel Knight: King of Cards",Jogo,48.80,2019,5,NULL,983,NS,18,"Yacht Club Games",4,Platform
+984,"Shovel Knight: King of Cards",Jogo,48.80,2019,6,NULL,984,PS4,18,"Yacht Club Games",4,Platform
+985,"Shovel Knight: King of Cards",Jogo,48.80,2019,4,NULL,985,Win,18,"Yacht Club Games",4,Platform
+986,"Shovel Knight: Showdown",Jogo,18.80,2019,4,NULL,986,Win,15,"Yacht Club Games",4,Fighting
+987,"Shovel Knight: Showdown",Jogo,18.80,2019,6,NULL,987,NS,15,"Yacht Club Games",4,Fighting
+988,"Shovel Knight: Showdown",Jogo,18.80,2019,4,NULL,988,PS4,15,"Yacht Club Games",4,Fighting
+989,"Shovel Knight: Showdown",Jogo,18.80,2019,4,NULL,989,Win,15,"Yacht Club Games",4,Fighting
+990,"Steins;Gate 0[B]",Jogo,29.30,2019,4,NULL,990,NS,16,"Spike Chunsoft",3,"Visual novel"
+991,"Steins;Gate: My Darling’s Embrace",Jogo,20.90,2019,6,NULL,991,Win,14,"Spike Chunsoft",4,"Visual novel"
+992,"Steins;Gate: My Darling’s Embrace",Jogo,20.90,2019,5,NULL,992,NS,14,"Spike Chunsoft",4,"Visual novel"
+993,"Steins;Gate: My Darling’s Embrace",Jogo,20.90,2019,5,NULL,993,PS4,14,"Spike Chunsoft",4,"Visual novel"
+994,"Vampire: The Masquerade – Coteries of New York",Jogo,19.10,2019,4,NULL,994,Win,17,"Draw Distance",2,Adventure
+995,"Vampire: The Masquerade – Coteries of New York",Jogo,19.10,2019,4,NULL,995,Mac,17,"Draw Distance",2,Adventure
+996,"Vampire: The Masquerade – Coteries of New York",Jogo,19.10,2019,4,NULL,996,Lin,17,"Draw Distance",2,Adventure
+997,"Detroit: Become Human",Jogo,36.60,2019,3,NULL,997,Win,15,"Quantic Dream",1,Adventure
+998,"Touhou Project Genso Skydrift",Jogo,21.80,2019,3,NULL,998,Win,18,Unties,1,Racing
+999,"Touhou Project Genso Skydrift",Jogo,21.80,2019,4,NULL,999,NS,18,Unties,1,Racing
+1000,"Path of the Warrior",Jogo,48.50,2019,4,NULL,1000,Win,15,"Oculus Studios",2,"Beat’em up"
+1001,"Project Sakura Wars[A]",Jogo,21.00,2019,6,NULL,1001,PS4,16,Sega,1,"Action role-playing, dating sim, visual novel"
+1002,Wattam,Jogo,21.50,2019,5,NULL,1002,Win,16,"Annapurna Interactive",4,Action
+1003,Wattam,Jogo,21.50,2019,4,NULL,1003,PS4,16,"Annapurna Interactive",4,Action
+1004,"Brain Age: Nintendo Switch Training[A]",Jogo,34.40,2019,5,NULL,1004,NS,18,Nintendo,3,Puzzle

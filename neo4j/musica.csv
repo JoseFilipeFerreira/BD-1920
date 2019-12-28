@@ -1,0 +1,270 @@
+id_artigo,titulo,tipo,preco,ano,classificacao,genero_musical,artista,formato
+1005,Legacy,Musica,8.10,2016,3,EDM,"David Bowie",MP3
+1006,"Because of the Times",Musica,16.80,2007,5,"Indie Rock","Kings of Leon",CD
+1007,"Do You Want the Truth or Something Beautiful?",Musica,17.50,2009,6,"Indie Rock","Paloma Faith",Vinil
+1008,"The Cream of Eric Clapton",Musica,6.80,1987,5,Rock,"Eric Clapton & Cream",MP3
+1009,"Tango in the Night",Musica,14.90,1987,4,Jazz,"Fleetwood Mac",CD
+1010,"Blood Sugar Sex Magik",Musica,25.40,1991,5,EDM,"Red Hot Chili Peppers",Vinil
+1011,"Performance and Cocktails",Musica,7.10,1999,5,Metal,Stereophonics,MP3
+1012,"No Parlez",Musica,15.00,1983,4,Pop,"Paul Young",CD
+1013,"Whitney Houston",Musica,19.50,1985,4,Pop,"Whitney Houston",Vinil
+1014,Parklife,Musica,7.60,1994,5,Jazz,Blur,MP3
+1015,"Greatest Hits",Musica,13.40,1995,3,"Hip Hop","Bruce Springsteen",CD
+1016,Older,Musica,21.30,1996,6,Pop,"George Michael",Vinil
+1017,"Dua Lipa",Musica,5.80,2017,3,Rock,"Dua Lipa",MP3
+1018,"Their Greatest Hits (1971–1975)",Musica,16.90,1976,5,Rock,Eagles,CD
+1019,"Duran Duran",Musica,27.70,1981,3,Rock,"Duran Duran",Vinil
+1020,Reckless,Musica,3.80,1985,4,"Hip Hop","Bryan Adams",MP3
+1021,"Nothing but the Beat",Musica,18.50,2011,4,Pop,"David Guetta",CD
+1022,Blurryface,Musica,17.30,2015,5,Pop,"Twenty One Pilots",Vinil
+1023,"Best of the Seekers",Musica,7.90,1968,3,Techno,"The Seekers",MP3
+1024,"At San Quentin",Musica,17.80,1969,6,Blues,"Johnny Cash",CD
+1025,"Greatest Hits",Musica,26.80,1970,4,Techno,"Andy Williams",Vinil
+1026,Fantastic,Musica,4.70,1983,4,Pop,Wham!,MP3
+1027,"If You Wait",Musica,16.40,2013,4,Blues,"London Grammar",CD
+1028,"Dangerous Woman",Musica,20.70,2016,4,Rock,"Ariana Grande",Vinil
+1029,"Parallel Lines",Musica,3.50,1978,5,EDM,Blondie,MP3
+1030,"Pablo Honey",Musica,18.90,1993,4,Techno,Radiohead,CD
+1031,"Up to Now",Musica,18.20,2009,5,Blues,"Snow Patrol",Vinil
+1032,"Divine Madness",Musica,8.30,1992,4,Pop,Madness,MP3
+1033,Dookie,Musica,15.90,1994,6,Rock,"Green Day",CD
+1034,"I’m Not Dead",Musica,23.60,2006,6,Metal,P!nk,Vinil
+1035,"Out of the Blue",Musica,5.30,1977,6,EDM,"Electric Light Orchestra",MP3
+1036,"Elegant Slumming",Musica,15.10,1993,3,"Hip Hop","M People",CD
+1037,"White on Blonde",Musica,20.50,1997,4,Pop,Texas,Vinil
+1038,Stripped,Musica,5.20,2002,3,Pop,"Christina Aguilera",MP3
+1039,Dummy,Musica,13.90,1994,4,EDM,Portishead,CD
+1040,X&Y,Musica,17.60,2005,3,Techno,Coldplay,Vinil
+1041,Loud,Musica,7.90,2010,4,Rock,Rihanna,MP3
+1042,Views,Musica,15.20,2016,4,"Indie Rock",Drake,CD
+1043,"Labour of Love",Musica,28.70,1983,3,Pop,UB40,Vinil
+1044,"The Jazz Singer (OST)",Musica,7.80,1980,5,Jazz,"Neil Diamond",MP3
+1045,Rio,Musica,16.50,1982,5,Pop,"Duran Duran",CD
+1046,"Shepherd Moons",Musica,22.90,1991,3,"Hip Hop",Enya,Vinil
+1047,"ELV1S: 30 No. 1 Hits",Musica,8.90,2002,4,Jazz,"Elvis Presley",MP3
+1048,"Ladies & Gentlemen: The Best of George Michael",Musica,13.40,1998,5,Techno,"George Michael",CD
+1049,"18 Months",Musica,17.30,2012,3,Pop,"Calvin Harris",Vinil
+1050,Hysteria,Musica,7.30,1987,4,Rock,"Def Leppard",MP3
+1051,"Stanley Road",Musica,13.90,1995,5,Techno,"Paul Weller",CD
+1052,Play,Musica,18.10,1999,5,"Indie Rock",Moby,Vinil
+1053,"Dr Zhivago",Musica,5.10,1966,6,EDM,"Original Soundtrack",MP3
+1054,"And I Love You So",Musica,17.70,1973,3,"Hip Hop","Perry Como",CD
+1055,"The Circus",Musica,19.90,1987,5,Jazz,Erasure,Vinil
+1056,"MCMXC a.D.",Musica,5.90,1990,4,Rock,Enigma,MP3
+1057,2001,Musica,17.40,1999,6,Pop,"Dr. Dre",CD
+1058,"Chariots of Fire (OST)",Musica,23.60,1981,5,Rock,Vangelis,Vinil
+1059,"Complete Madness",Musica,6.10,1982,4,"Indie Rock",Madness,MP3
+1060,"Sounds of Silence",Musica,15.10,1966,4,Rock,"Simon & Garfunkel",CD
+1061,"Abbey Road",Musica,19.40,1969,6,"Indie Rock","The Beatles",Vinil
+1062,Justified,Musica,3.40,2002,4,EDM,"Justin Timberlake",MP3
+1063,Kasabian,Musica,15.90,2004,5,Jazz,Kasabian,CD
+1064,"My Everything",Musica,24.40,2014,5,Techno,"Ariana Grande",Vinil
+1065,Singles,Musica,6.10,2015,4,Rock,"Maroon 5",MP3
+1066,"The Very Best of Elton John",Musica,13.00,1990,4,EDM,"Elton John",CD
+1067,"Twenty Five",Musica,26.00,2006,4,Rock,"George Michael",Vinil
+1068,Hits,Musica,5.50,1998,5,Rock,"Phil Collins",MP3
+1069,"Just Enough Education to Perform",Musica,17.40,2001,5,Pop,Stereophonics,CD
+1070,Human,Musica,18.80,2017,5,EDM,"Rag’n’Bone Man",Vinil
+1071,"Wish You Were Here",Musica,8.20,1975,5,Pop,"Pink Floyd",MP3
+1072,Kick,Musica,17.40,1987,4,Jazz,INXS,CD
+1073,"Everything Must Go",Musica,19.60,1996,3,Jazz,"Manic Street Preachers",Vinil
+1074,"...Baby One More Time",Musica,4.30,1999,4,Rock,"Britney Spears",MP3
+1075,Spirit,Musica,17.00,2007,3,Pop,"Leona Lewis",CD
+1076,"Who You Are",Musica,22.80,2011,5,Blues,"Jessie J",Vinil
+1077,"Jake Bugg",Musica,8.40,2012,4,Rock,"Jake Bugg",MP3
+1078,"1000 Forms of Fear",Musica,14.80,2014,4,EDM,Sia,CD
+1079,Whitney,Musica,25.10,1987,4,Rock,"Whitney Houston",Vinil
+1080,"Labour of Love II",Musica,4.90,1989,6,Techno,UB40,MP3
+1081,Dangerous,Musica,18.20,1991,5,Rock,"Michael Jackson",CD
+1082,Rockferry,Musica,22.00,2008,4,"Hip Hop",Duffy,Vinil
+1083,"No More Idols",Musica,4.90,2011,3,Metal,"Chase & Status",MP3
+1084,"Take Care",Musica,16.00,2011,6,"Indie Rock",Drake,CD
+1085,Unplugged,Musica,17.60,1992,4,Blues,"Eric Clapton",Vinil
+1086,"Left of the Middle",Musica,4.30,1997,5,Pop,"Natalie Imbruglia",MP3
+1087,Employment,Musica,16.20,2005,5,Rock,"Kaiser Chiefs",CD
+1088,"Only Revolutions",Musica,25.50,2009,4,Pop,"Biffy Clyro",Vinil
+1089,"Death of a Bachelor",Musica,7.50,2016,3,Pop,"Panic! at the Disco",MP3
+1090,Imagine,Musica,18.50,1971,3,"Hip Hop","John Lennon",CD
+1091,"Goodbye Yellow Brick Road",Musica,27.00,1973,3,"Indie Rock","Elton John",Vinil
+1092,"A New World Record",Musica,8.20,1976,5,Rock,"Electric Light Orchestra",MP3
+1093,"OK Computer",Musica,15.00,1997,5,Pop,Radiohead,CD
+1094,"You’ve Come a Long Way, Baby",Musica,18.90,1998,4,EDM,"Fatboy Slim",Vinil
+1095,"Call Off the Search",Musica,7.20,2003,4,Rock,"Katie Melua",MP3
+1096,"Inside In / Inside Out",Musica,13.60,2006,4,"Indie Rock","The Kooks",CD
+1097,"Liquid Spirit",Musica,25.50,2013,3,Jazz,"Gregory Porter",Vinil
+1098,"Common Sense",Musica,8.80,2017,5,Rock,"J Hus",MP3
+1099,"The Greatest Showman: Original Soundtrack",Musica,16.30,2018,5,Rock,"Original Soundtrack",CD
+1100,"Music for the Jilted Generation",Musica,21.90,1994,5,Blues,"The Prodigy",Vinil
+1101,War,Musica,6.00,1983,3,Pop,U2,MP3
+1102,"Every Kingdom",Musica,17.00,2011,4,"Hip Hop","Ben Howard",CD
+1103,"The Very Best of the Bee Gees",Musica,19.10,1990,4,Techno,"Bee Gees",Vinil
+1104,"Life thru a Lens",Musica,3.80,1997,5,Pop,"Robbie Williams",MP3
+1105,"No Angel",Musica,14.50,2000,5,Jazz,Dido,CD
+1106,"The Script",Musica,20.50,2008,4,Rock,"The Script",Vinil
+1107,"Hunky Dory",Musica,4.30,1972,5,Metal,"David Bowie",MP3
+1108,Frank,Musica,13.80,2003,5,Jazz,"Amy Winehouse",CD
+1109,"Final Straw",Musica,21.80,2004,4,Pop,"Snow Patrol",Vinil
+1110,"The Seldom Seen Kid",Musica,8.10,2008,4,Rock,Elbow,MP3
+1111,"The Phantom of the Opera",Musica,18.10,1987,5,"Indie Rock","Original Cast",CD
+1112,Halcyon,Musica,22.80,2012,3,Pop,"Ellie Goulding",Vinil
+1113,"The Black and White Minstrel Show",Musica,3.20,1960,5,Jazz,"George Mitchell Minstrels",MP3
+1114,"Decade in the Sun: Best of Stereophonics",Musica,17.40,2008,6,Metal,Stereophonics,CD
+1115,"Slippery When Wet",Musica,22.20,1986,5,Metal,"Bon Jovi",Vinil
+1116,"Sunny Side Up",Musica,7.60,2009,4,Blues,"Paolo Nutini",MP3
+1117,"Hybrid Theory",Musica,13.60,2001,5,Rock,"Linkin Park",CD
+1118,"Greatest Hits",Musica,22.20,1991,4,Jazz,Eurythmics,Vinil
+1119,"The Colour of My Love",Musica,5.10,1994,5,Rock,"Celine Dion",MP3
+1120,"Forgiven, Not Forgotten",Musica,17.50,1996,6,Pop,"The Corrs",CD
+1121,"Born to Die",Musica,24.80,2012,6,Pop,"Lana Del Rey",Vinil
+1122,Eliminator,Musica,8.90,1983,3,Rock,"ZZ Top",MP3
+1123,"The Balcony",Musica,18.70,2014,4,Rock,"Catfish and the Bottlemen",CD
+1124,"Teenage Dream",Musica,23.70,2010,4,EDM,"Katy Perry",Vinil
+1125,"The Stone Roses",Musica,4.60,1989,3,Metal,"The Stone Roses",MP3
+1126,"Ray of Light",Musica,18.40,1998,6,Blues,Madonna,CD
+1127,"The Singles: 1969–1973",Musica,26.90,1974,4,"Indie Rock","The Carpenters",Vinil
+1128,"Picture Book",Musica,4.70,1985,6,Rock,"Simply Red",MP3
+1129,"Carry On up the Charts",Musica,14.80,1994,4,"Indie Rock","The Beautiful South",CD
+1130,"Our Version of Events",Musica,28.10,2012,6,"Indie Rock","Emeli Sandé",Vinil
+1131,"Born in the U.S.A.",Musica,7.40,1984,4,Pop,"Bruce Springsteen",MP3
+1132,"Direct Hits",Musica,13.90,2013,5,Rock,"The Killers",CD
+1133,25,Musica,25.00,2015,5,Metal,Adele,Vinil
+1134,"The Slim Shady LP",Musica,4.90,1999,4,Pop,Eminem,MP3
+1135,"The Man Who",Musica,17.10,1999,3,Rock,Travis,CD
+1136,"I’ve Been Expecting You",Musica,17.50,1998,5,Metal,"Robbie Williams",Vinil
+1137,"Greatest Hits",Musica,3.60,2004,3,Pop,"Robbie Williams",MP3
+1138,"Dire Straits",Musica,14.50,1978,5,Jazz,"Dire Straits",CD
+1139,"The Unforgettable Fire",Musica,24.40,1984,6,Pop,U2,Vinil
+1140,"Beautiful World",Musica,6.00,2006,4,Metal,"Take That",MP3
+1141,÷,Musica,14.20,2017,4,"Hip Hop","Ed Sheeran",CD
+1142,Garbage,Musica,20.80,1995,4,Techno,Garbage,Vinil
+1143,"Scissor Sisters",Musica,3.90,2004,4,Pop,"Scissor Sisters",MP3
+1144,"Band on the Run",Musica,16.90,1973,4,Rock,"Paul McCartney and Wings",CD
+1145,"Greatest Hits",Musica,24.00,1976,6,Jazz,ABBA,Vinil
+1146,"Love Songs",Musica,5.00,1982,5,Rock,"Barbra Streisand",MP3
+1147,"The Whole Story",Musica,14.10,1986,5,Pop,"Kate Bush",CD
+1148,"Blue Lines",Musica,22.90,1991,5,Pop,"Massive Attack",Vinil
+1149,"Hopes and Fears",Musica,6.00,2004,3,"Indie Rock",Keane,MP3
+1150,"Back to Bedlam",Musica,13.70,2005,4,Rock,"James Blunt",CD
+1151,"Led Zeppelin II",Musica,20.10,1969,4,Jazz,"Led Zeppelin",Vinil
+1152,Tapestry,Musica,7.90,1971,6,Metal,"Carole King",MP3
+1153,"Back to Front",Musica,16.70,1992,3,Rock,"Lionel Richie",CD
+1154,"Falling into You",Musica,23.40,1996,4,Pop,"Celine Dion",Vinil
+1155,"Bizarre Fruit/Bizarre Fruit II",Musica,5.00,1994,4,Jazz,"M People",MP3
+1156,"I Am... Sasha Fierce",Musica,14.30,2008,6,Rock,Beyoncé,CD
+1157,"Some Guys Have All the Luck",Musica,23.50,2008,5,Blues,"Rod Stewart",Vinil
+1158,"The Collection",Musica,4.80,1988,4,EDM,"Barry White",MP3
+1159,"Protection/No Protection",Musica,18.20,1994,5,Rock,"Massive Attack",CD
+1160,"Up All Night",Musica,19.20,2011,4,Metal,"One Direction",Vinil
+1161,"Bad Blood",Musica,6.90,2013,5,Metal,Bastille,MP3
+1162,"The Best of 1980–1990",Musica,14.40,1998,4,EDM,U2,CD
+1163,"The Defamation of Strickland Banks",Musica,18.70,2010,3,EDM,"Plan B",Vinil
+1164,Purpose,Musica,7.70,2015,5,EDM,"Justin Bieber",MP3
+1165,Madonna,Musica,13.00,1984,4,"Hip Hop",Madonna,CD
+1166,"American Idiot",Musica,28.40,2004,5,Jazz,"Green Day",Vinil
+1167,"Sam’s Town",Musica,8.70,2006,4,Metal,"The Killers",MP3
+1168,"Night Visions",Musica,15.90,2013,5,Pop,"Imagine Dragons",CD
+1169,Stoney,Musica,24.40,2016,5,Rock,"Post Malone",Vinil
+1170,Lungs,Musica,3.60,2009,4,Rock,"Florence and the Machine",MP3
+1171,Parachutes,Musica,16.50,2000,3,"Hip Hop",Coldplay,CD
+1172,"The Best of Rod Stewart",Musica,27.80,1976,5,"Indie Rock","Rod Stewart",Vinil
+1173,"Greatest Hits",Musica,14.40,2010,4,Techno,"Bon Jovi",CD
+1174,Bad,Musica,22.30,1987,3,Pop,"Michael Jackson",Vinil
+1175,"Simply the Best",Musica,5.90,1991,5,Metal,"Tina Turner",MP3
+1176,"Crazy Love",Musica,16.10,2009,5,"Hip Hop","Michael Bublé",CD
+1177,"The Very Best of the Eagles",Musica,19.50,1994,4,"Hip Hop",Eagles,Vinil
+1178,"These Streets",Musica,4.00,2006,6,"Indie Rock","Paolo Nutini",MP3
+1179,"Good Girl Gone Bad",Musica,15.50,2007,4,"Hip Hop",Rihanna,CD
+1180,"No Jacket Required",Musica,18.20,1985,6,Jazz,"Phil Collins",Vinil
+1181,"Hello, I Must Be Going!",Musica,3.80,1982,5,Metal,"Phil Collins",MP3
+1182,"West Side Story",Musica,16.50,1962,5,Pop,"Original Soundtrack",CD
+1183,"Ocean Drive",Musica,27.50,1995,3,"Indie Rock","Lighthouse Family",Vinil
+1184,"White Ladder",Musica,8.10,2000,6,Techno,"David Gray",MP3
+1185,"The Fame",Musica,13.00,2009,4,Rock,"Lady Gaga",CD
+1186,"The Best of Van Morrison",Musica,18.60,1990,5,"Hip Hop","Van Morrison",Vinil
+1187,Oklahoma!,Musica,4.30,1956,5,"Indie Rock","Original Soundtrack",MP3
+1188,Californication,Musica,17.80,1999,4,Rock,"Red Hot Chili Peppers",CD
+1189,"The Best of UB40 – Volume One",Musica,19.60,1987,4,Jazz,UB40,Vinil
+1190,"Only by the Night",Musica,6.10,2008,5,EDM,"Kings of Leon",MP3
+1191,"Alchemy – Dire Straits Live",Musica,16.30,1984,4,"Hip Hop","Dire Straits",CD
+1192,"Talk on Corners",Musica,21.50,1997,4,Jazz,"The Corrs",Vinil
+1193,"Greatest Hits",Musica,5.60,2003,5,Rock,"Red Hot Chili Peppers",MP3
+1194,1967-1970,Musica,13.30,1973,5,Rock,"The Beatles",CD
+1195,"Best of Bowie",Musica,24.90,2002,4,Rock,"David Bowie",Vinil
+1196,Stars,Musica,7.00,1991,5,Metal,"Simply Red",MP3
+1197,"Word Gets Around",Musica,14.90,1997,3,Pop,Stereophonics,CD
+1198,"Urban Hymns",Musica,22.10,1997,4,"Hip Hop","The Verve",Vinil
+1199,"Come On Over",Musica,8.50,1998,6,Rock,"Shania Twain",MP3
+1200,Graceland,Musica,16.20,1986,5,Metal,"Paul Simon",CD
+1201,"Wanted on Voyage",Musica,24.30,2014,5,"Hip Hop","George Ezra",Vinil
+1202,1989,Musica,5.40,2014,5,Pop,"Taylor Swift",MP3
+1203,"The 1975",Musica,15.80,2013,4,"Indie Rock","The 1975",CD
+1204,"My Fair Lady",Musica,26.30,1958,5,Techno,"Original Broadway Cast",Vinil
+1205,Songbird,Musica,4.70,1998,5,"Hip Hop","Eva Cassidy",MP3
+1206,"The Buddy Holly Story",Musica,17.20,1959,5,Rock,"Buddy Holly",CD
+1207,"Cross Road – The Best of Bon Jovi",Musica,26.90,1994,3,Rock,"Bon Jovi",Vinil
+1208,"Doo-Wops & Hooligans",Musica,6.50,2010,6,"Hip Hop","Bruno Mars",MP3
+1209,"Greatest Hits... So Far!!!",Musica,14.80,2010,4,EDM,P!nk,CD
+1210,"Can’t Slow Down",Musica,19.00,1983,5,Rock,"Lionel Richie",Vinil
+1211,"Like a Virgin",Musica,8.20,1984,4,Blues,Madonna,MP3
+1212,"Come Away with Me",Musica,17.40,2002,5,Blues,"Norah Jones",CD
+1213,"Glory Days",Musica,22.60,2016,3,"Indie Rock","Little Mix",Vinil
+1214,"Best of The Beach Boys",Musica,4.10,1966,5,Rock,"The Beach Boys",MP3
+1215,"Manilow Magic",Musica,15.10,1979,4,Blues,"Barry Manilow",CD
+1216,"Eyes Open",Musica,25.00,2006,4,"Hip Hop","Snow Patrol",Vinil
+1217,25,Musica,3.40,2015,5,EDM,Adele,MP3
+1218,"Private Dancer",Musica,16.50,1984,3,Rock,"Tina Turner",CD
+1219,"A Rush of Blood to the Head",Musica,19.00,2002,6,Blues,Coldplay,Vinil
+1220,"Call Me Irresponsible",Musica,4.70,2007,5,"Hip Hop","Michael Bublé",MP3
+1221,"Greatest Hits",Musica,15.00,1981,5,Blues,Queen,CD
+1222,"Gold: Greatest Hits",Musica,23.70,1992,6,Blues,ABBA,Vinil
+1223,Legend,Musica,3.50,1984,4,Rock,"Bob Marley and the Wailers",MP3
+1224,Rumours,Musica,13.80,1977,5,Techno,"Fleetwood Mac",CD
+1225,"The Dark Side of the Moon",Musica,25.40,1973,6,"Hip Hop","Pink Floyd",Vinil
+1226,"Bat Out of Hell",Musica,8.10,1978,5,Pop,"Meat Loaf",MP3
+1227,"Number Ones",Musica,15.50,2003,3,Blues,"Michael Jackson",CD
+1228,"(What’s the Story) Morning Glory?",Musica,21.40,1995,5,"Indie Rock",Oasis,Vinil
+1229,"Back to Black",Musica,5.40,2006,3,"Indie Rock","Amy Winehouse",MP3
+1230,"Curtain Call: The Hits",Musica,13.60,2005,4,Rock,Eminem,CD
+1231,"The Sound of Music",Musica,27.60,1965,6,Metal,"Original Soundtrack",Vinil
+1232,"The Very Best of Fleetwood Mac",Musica,5.20,2002,4,EDM,"Fleetwood Mac",MP3
+1233,"The Immaculate Collection",Musica,18.40,1990,4,Pop,Madonna,CD
+1234,"Greatest Hits",Musica,17.20,2009,6,EDM,"Foo Fighters",Vinil
+1235,"Definitely Maybe",Musica,8.60,1994,5,Jazz,Oasis,MP3
+1236,Nevermind,Musica,14.20,1991,6,Metal,Nirvana,CD
+1237,"Simon and Garfunkel’s Greatest Hits",Musica,23.80,1972,4,Blues,"Simon & Garfunkel",Vinil
+1238,"Bridge over Troubled Water",Musica,3.90,1970,4,Metal,"Simon & Garfunkel",MP3
+1239,"Time Flies... 1994–2009",Musica,14.30,2010,4,"Indie Rock",Oasis,CD
+1240,AM,Musica,23.10,2013,6,Pop,"Arctic Monkeys",Vinil
+1241,"Greatest Hits",Musica,3.40,2004,5,Rock,"Guns N’ Roses",MP3
+1242,"South Pacific",Musica,14.60,1958,3,EDM,"Original Soundtrack",CD
+1243,"The Ultimate Collection",Musica,5.30,2008,4,"Hip Hop","Whitney Houston",MP3
+1244,"Face Value",Musica,15.90,1981,5,Pop,"Phil Collins",CD
+1245,"Tracy Chapman",Musica,27.40,1988,5,Pop,"Tracy Chapman",Vinil
+1246,x,Musica,5.40,2014,4,Rock,"Ed Sheeran",MP3
+1247,"Tubular Bells",Musica,15.80,1973,5,Pop,"Mike Oldfield",CD
+1248,Thriller,Musica,23.40,1982,3,"Hip Hop","Michael Jackson",Vinil
+1249,"Appetite for Destruction",Musica,7.60,1987,5,"Hip Hop","Guns N’ Roses",MP3
+1250,"Sgt. Pepper’s Lonely Hearts Club Band",Musica,18.60,1967,6,Jazz,"The Beatles",CD
+1251,"Brothers in Arms",Musica,17.10,1985,5,Pop,"Dire Straits",Vinil
+1252,21,Musica,4.70,2011,6,Blues,Adele,MP3
+1253,"In the Lonely Hour",Musica,16.50,2014,4,"Indie Rock","Sam Smith",CD
+1254,"Whatever People Say I Am, That’s What I’m Not",Musica,22.20,2006,3,"Indie Rock","Arctic Monkeys",Vinil
+1255,"Greatest Hits II",Musica,4.10,1991,5,Pop,Queen,MP3
+1256,"Making Movies",Musica,16.50,1980,3,"Hip Hop","Dire Straits",CD
+1257,"Hot Fuss",Musica,26.00,2004,4,Jazz,"The Killers",Vinil
+1258,"Automatic for the People",Musica,8.60,1992,4,"Hip Hop",R.E.M.,MP3
+1259,"My Way: The Best of Frank Sinatra",Musica,15.30,1997,5,Pop,"Frank Sinatra",CD
+1260,1,Musica,28.20,2000,5,Rock,"The Beatles",Vinil
+1261,"Off the Wall",Musica,7.60,1979,4,Blues,"Michael Jackson",MP3
+1262,"Jagged Little Pill",Musica,14.30,1995,6,"Indie Rock","Alanis Morissette",CD
+1263,"Never Forget – The Ultimate Collection",Musica,28.30,2005,6,Techno,"Take That",Vinil
+1264,"Sigh No More",Musica,4.10,2009,4,Jazz,"Mumford & Sons",MP3
+1265,"Out of Time",Musica,14.00,1991,5,Pop,R.E.M.,CD
+1266,19,Musica,17.00,2008,4,Metal,Adele,Vinil
+1267,1962–1966,Musica,8.20,1973,5,Pop,"The Beatles",MP3
+1268,"I Cry When I Laugh",Musica,16.10,2015,4,EDM,"Jess Glynne",CD
+1269,"Under a Blood Red Sky",Musica,22.00,1983,6,EDM,U2,Vinil
+1270,"The King and I",Musica,5.30,1956,6,Jazz,"Original Soundtrack",MP3
+1271,"The Bends",Musica,17.20,1995,4,Pop,Radiohead,CD
+1272,"The Joshua Tree",Musica,24.80,1987,5,Rock,U2,Vinil
+1273,"Love over Gold",Musica,18.60,1982,6,Rock,"Dire Straits",CD
