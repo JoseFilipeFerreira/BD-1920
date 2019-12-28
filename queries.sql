@@ -1,3 +1,13 @@
+/* Criar função idade (dada pelos docentes da UC) */
+Use FNAC;
+SET GLOBAL log_bin_trust_function_creators = 1;
+DELIMITER //
+CREATE FUNCTION `idade` (dta date) RETURNS INT
+BEGIN
+RETURN TIMESTAMPDIFF(YEAR, dta, CURDATE());
+END //
+DELIMITER ;
+
 -- adiciona o montante de cada compra
 -- (utilizar se fizerem os inserts antes de ativar o trigger)
 drop procedure if exists montante;
@@ -63,18 +73,18 @@ DELIMITER ;
 -- pesquisa completa dos livros
 drop view if exists livros_titulo_asc;
 create view livros_titulo_asc as
-select a.titulo as Título, l.autor as Autor,
+select a.id_artigo as Id, a.titulo as Título, l.autor as Autor,
 a.preco as Preço, a.ano as Publicado, a.classificacao as Classificação,
 l.genero as Género, l.editora as Editora, l.n_paginas as `Nº Páginas`
 from Livro l join Artigo a on a.id_artigo = l.id_artigo
 order by a.titulo ASC;
 
-select * from livros_titulos_asc;
+select * from livros_titulo_asc;
 
 -- pesquisa completa dos filmes
 drop view if exists filmes_titulo_asc;
 create view filmes_titulo_asc as
-select a.titulo as Título, f.realizador as Realizador,
+select a.id_artigo as Id, a.titulo as Título, f.realizador as Realizador,
 a.preco as Preço, a.ano as Ano, a.classificacao as Classificação,
 f.genero as Género, f.duracao as Duração
 from Filme f join Artigo a on a.id_artigo = f.id_artigo
@@ -85,7 +95,7 @@ select * from filmes_titulo_asc;
 -- pesquisa completa dos jogos
 drop view if exists jogos_titulo_asc;
 create view jogos_titulo_asc as
-select a.titulo as Título, j.plataforma as Plataforma, a.preco as Preço,
+select a.id_artigo as Id, a.titulo as Título, j.plataforma as Plataforma, a.preco as Preço,
 a.ano as Ano, a.classificacao as Classificação, j.genero as Género,
 j.publisher as Editor, j.idade_min as `Idade Mínima`, j.n_jogadores_max as `Nº Max Jogadores`
 from Jogo j join Artigo a on a.id_artigo = j.id_artigo
@@ -96,7 +106,7 @@ select * from jogos_titulo_asc;
 -- pesquisa completa das musicas --
 drop view if exists musicas_titulo_asc;
 create view musicas_titulo_asc as
-select a.titulo as Título, m.artista as Artista,
+select a.id_artigo as Id, a.titulo as Título, m.artista as Artista,
 m.formato as Formato, a.preco as Preço, a.ano as Publicado,
 a.classificacao as Classificação, m.genero_musical as Género
 from Musica m join Artigo a on a.id_artigo = m.id_artigo
@@ -119,6 +129,19 @@ end //
 DELIMITER ;
 
 call livros_autor('Jane Austen');
+
+-- verifica que jogos o utilizador X  é permitido a comprar
+drop procedure if exists jogos_permitidos;
+DELIMITER //
+create procedure jogos_permitidos(in id int)
+begin
+	select * from jogos_titulo_asc j, Cliente c
+	where c.id_cliente = id
+    and idade(c.data_nascimento) >= j.`Idade Mínima`;
+end //
+DELIMITER ;
+
+call jogos_permitidos(1);
 
 -- quanto cada autor já vendeu no total (quantidade e montante total) ordenado por lucro total e qtd decrescente
 drop view if exists top_vendas_autor;
