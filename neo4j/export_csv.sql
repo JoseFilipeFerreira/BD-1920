@@ -12,7 +12,7 @@ COPY (SELECT Artigo.id_artigo,titulo,tipo,preco,ano,classificacao,plataforma,ida
 COPY (SELECT Artigo.id_artigo,titulo,tipo,preco,ano,classificacao,genero_musical,artista,formato FROM Artigo
       JOIN Musica ON Musica.id_artigo = Artigo.id_artigo) TO '/tmp/musica.csv' WITH CSV header;
 
-COPY (SELECT * FROM Stock) TO '/tmp/stock.csv' WITH CSV header;
+use FNAC;
+SELECT * FROM Compra;
 
-COPY (SELECT Compra.id_compra,montante,loja,data_hora,id_cliente,id_artigo,quantidade FROM Compra
-      JOIN Compra_de_X_Artigos ON Compra.id_compra = Compra_de_X_Artigos.id_compra) TO '/tmp/compra.csv' WITH CSV header;
+SELECT * FROM Compra_de_X_Artigos;

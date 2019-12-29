@@ -1,0 +1,11 @@
+id_artigo,titulo,tipo,preco,ano,classificacao,autor,genero,editora,n_paginas
+21,"To Kill a Mockingbird",Livro,10.80,0,5,"Harper Lee",Classics,"Porto Editora",239
+22,"Pride and Prejudice",Livro,13.00,0,5,"Jane Austen",Classics,Antígona,358
+23,"Anne Frank: The Diary of a Young Girl",Livro,15.00,0,5,"Anne Frank",Classics,"Harper Collins",339
+24,1984,Livro,9.60,0,5,"George Orwell",Dystopian,"Penguin Books",425
+25,"Harry Potter and the Sorcerer’s Stone",Livro,17.50,0,6,"J.K. Rowling",Fantasy,"Cavalo de Ferro",339
+26,"The Lord of the Rings",Livro,13.90,0,5,"J.R.R. Tolkien",Fantasy,"Porto Editora",363
+27,"The Great Gatsby",Livro,11.00,0,6,"F. Scott Fitzgerald",Classics,"Usborne Publishing",223
+28,"Charlotte’s Web",Livro,16.90,0,5,"E.B. White",Classics,"Editorial Presença",370
+29,"Little Women",Livro,13.90,0,5,"Louisa May Alcott",Classics,"Harper Collins",237
+30,"The Hobbit",Livro,14.00,0,6,"J.R.R. Tolkien",Fantasy,"Penguin Books",291

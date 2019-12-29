@@ -1,0 +1,11 @@
+id_cliente,nome,data_nascimento,data_subscricao,email,telemovel,distrito
+1,"ABIMAEL CARDOSO",1968-04-06,2014-03-11,abimael.cardoso@exemplo.com,978801951,Aveiro
+2,"ABNER CARVALHO",1977-03-19,2015-11-06,abner.carvalho@exemplo.com,907328148,Beja
+3,"ABNER MAGALHAES",1968-04-03,2015-01-01,abner.magalhaes@exemplo.com,986408633,Braga
+4,"ADAILDA SANTOS",1984-01-04,2012-12-07,adailda.santos@exemplo.com,942719137,Bragança
+5,"ADAILTON ANICETO",1974-10-23,2013-11-19,adailton.aniceto@exemplo.com,983237013,"Castelo Branco"
+6,"ADALBERTO SOUSA",1979-07-12,2013-03-14,adalberto.sousa@exemplo.com,933359662,Coimbra
+7,"ADAO BOSCOLO",1972-09-03,2019-02-24,adao.boscolo@exemplo.com,937931456,Évora
+8,"ADELINE GARCIA",1997-08-31,2016-11-02,adeline.garcia@exemplo.com,976119044,Faro
+9,"ADELSON LOPES",1963-12-18,2010-01-05,adelson.lopes@exemplo.com,908303641,Guarda
+10,"ADEMILDA LEITE",1982-06-16,2016-10-22,ademilda.leite@exemplo.com,956872006,Leiria

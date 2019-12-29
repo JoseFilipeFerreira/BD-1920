@@ -1,0 +1,11 @@
+id_artigo,titulo,tipo,preco,ano,classificacao,genero_musical,artista,formato
+11,Legacy,Musica,8.10,2016,3,EDM,"David Bowie",MP3
+12,"Because of the Times",Musica,16.80,2007,5,"Indie Rock","Kings of Leon",CD
+13,"Do You Want the Truth or Something Beautiful?",Musica,17.50,2009,6,"Indie Rock","Paloma Faith",Vinil
+14,"The Cream of Eric Clapton",Musica,6.80,1987,5,Rock,"Eric Clapton & Cream",MP3
+15,"Tango in the Night",Musica,14.90,1987,4,Jazz,"Fleetwood Mac",CD
+16,"Blood Sugar Sex Magik",Musica,25.40,1991,5,EDM,"Red Hot Chili Peppers",Vinil
+17,"Performance and Cocktails",Musica,7.10,1999,5,Metal,Stereophonics,MP3
+18,"No Parlez",Musica,15.00,1983,4,Pop,"Paul Young",CD
+19,"Whitney Houston",Musica,19.50,1985,4,Pop,"Whitney Houston",Vinil
+20,Parklife,Musica,7.60,1994,5,Jazz,Blur,MP3

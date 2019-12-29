@@ -1,0 +1,11 @@
+id_artigo,titulo,tipo,preco,ano,classificacao,plataforma,idade_min,publisher,n_jogadores_max,genero
+1,"Hitman HD Enhanced Collection",Jogo,18.80,2019,6,PS4,18,"Warner Bros. Interactive Entertainment",2,Stealth
+2,"Hitman HD Enhanced Collection",Jogo,18.80,2019,3,XBO,18,"Warner Bros. Interactive Entertainment",2,Stealth
+3,"Mario & Luigi: Bowser’s Inside Story + Bowser Jr.’s Journey",Jogo,28.80,2019,3,3DS,16,Nintendo,4,Role-playing
+4,"New Super Mario Bros. U Deluxe",Jogo,38.50,2019,6,NS,15,Nintendo,1,Platformer
+5,"Tales of Vesperia: Definitive Edition",Jogo,35.50,2019,6,Win,17,"Bandai Namco Entertainment",1,Role-playing
+6,"Tales of Vesperia: Definitive Edition",Jogo,35.50,2019,5,NS,17,"Bandai Namco Entertainment",1,Role-playing
+7,"Tales of Vesperia: Definitive Edition",Jogo,35.50,2019,6,PS4,17,"Bandai Namco Entertainment",1,Role-playing
+8,"Tales of Vesperia: Definitive Edition",Jogo,35.50,2019,5,Win,17,"Bandai Namco Entertainment",1,Role-playing
+9,"Bright Memory",Jogo,40.50,2019,4,Win,17,"FYQD Personal Studio",3,"First-person shooter"
+10,"Asdivine Hearts 2",Jogo,39.20,2019,6,PS4,14,Kemco,3,Role-playing
