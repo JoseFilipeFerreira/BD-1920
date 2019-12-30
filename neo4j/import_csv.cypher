@@ -71,6 +71,10 @@ RETURN co, de, l
 //CREATE (co)-[de:DE {quantidade: toInteger(row.quantidade)}]->(f)
 //RETURN co, de, f
 
+// ---------------------------------------------
+// -----------       VERSAO 1      -------------
+// ---------------------------------------------
+
 // criar lojas
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "file:/teste/lojas.csv" AS row
@@ -111,3 +115,15 @@ RETURN l, t, lo
 //AND lo.loja = row.loja
 //CREATE (f)-[t:TEM_STOCK {qtd_disponivel: toInteger(row.qtd_disponivel)}]->(lo)
 //RETURN f, t, lo
+
+// ---------------------------------------------
+// -----------       VERSAO 2      -------------
+// ---------------------------------------------
+
+// criar stock artigo
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:/teste/lojas.csv" AS row
+CREATE (: {loja: row.loja, distrito: row.distrito});
+
+tem stock no distrito
+(:Stock)-[:TEM_STOCK {quantidade e loja}]->(:Distrito)
