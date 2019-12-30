@@ -1,82 +1,113 @@
+
 // Criar clientes
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "file:/teste/cliente.csv" AS row
 CREATE (:Cliente {id_cliente: toInteger(row.id_cliente), nome: row.nome, data_nascimento: row.data_nascimento, data_subscricao: row.data_subscricao, email: row.email, telemovel: row.telemovel, distrito: row.distrito});
-
-// Criar livros
-USING PERIODIC COMMIT
-LOAD CSV WITH HEADERS FROM "file:/teste/livro.csv" AS row
-CREATE (:Livro {id_artigo: toInteger(row.id_artigo), titulo: row.titulo, preco: toFloat(row.preco), ano: toInteger(row.ano),classificacao: toInteger(row.classificacao), autor: row.autor, genero: row.genero, editora: row.editora, n_paginas: toInteger(row.n_paginas)});
-
-// Criar jogos
-USING PERIODIC COMMIT
-LOAD CSV WITH HEADERS FROM "file:/teste/jogo.csv" AS row
-CREATE (:Jogo {id_artigo: toInteger(row.id_artigo), titulo: row.titulo, preco: toFloat(row.preco), ano: toInteger(row.ano),classificacao: toInteger(row.classificacao), plataforma: row.plataforma, idade_min: row.idade_min, publisher: row.publisher, n_jogadores_max: row.n_jogadores_max, genero: row.genero});
-
-// Criar musicas
-USING PERIODIC COMMIT
-LOAD CSV WITH HEADERS FROM "file:/teste/musica.csv" AS row
-CREATE (:Musica {id_artigo: toInteger(row.id_artigo), titulo: row.titulo, preco: toFloat(row.preco), ano: toInteger(row.ano),classificacao: toInteger(row.classificacao), genero_musical: row.genero_musical, artista: row.artista, formato: row.formato});
 
 // Criar compras
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "file:/teste/compra.csv" AS row
 CREATE (:Compra {id_compra: toInteger(row.id_compra), montante: toFloat(row.montante), loja: row.loja, data_hora: row.data_hora, id_cliente: toInteger(row.id_cliente)});
 
-// Criar stock
+// cliente faz compra
+MATCH (co:Compra),(cl:Cliente)
+WHERE co.id_cliente = cl.id_cliente
+CREATE (cl)-[f:FAZ]->(co)
+RETURN cl, f, co
+
+// Criar jogos
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:/teste/jogo.csv" AS row
+CREATE (:Jogo {id_artigo: toInteger(row.id_artigo), titulo: row.titulo, preco: toFloat(row.preco), ano: toInteger(row.ano),classificacao: toInteger(row.classificacao), plataforma: row.plataforma, idade_min: row.idade_min, publisher: row.publisher, n_jogadores_max: row.n_jogadores_max, genero: row.genero});
+
+// compra de x jogos
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:/teste/compra_de_x_artigos.csv" AS row
+MATCH (co:Compra),(j:Jogo)
+WHERE co.id_compra = toInteger(row.id_compra)
+AND j.id_artigo = toInteger(row.id_artigo)
+CREATE (co)-[de:DE {quantidade: toInteger(row.quantidade)}]->(j)
+RETURN co, de, j
+
+// Criar musicas
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:/teste/musica.csv" AS row
+CREATE (:Musica {id_artigo: toInteger(row.id_artigo), titulo: row.titulo, preco: toFloat(row.preco), ano: toInteger(row.ano),classificacao: toInteger(row.classificacao), genero_musical: row.genero_musical, artista: row.artista, formato: row.formato});
+
+// compra de x musicas
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:/teste/compra_de_x_artigos.csv" AS row
+MATCH (co:Compra),(m:Musica)
+WHERE co.id_compra = toInteger(row.id_compra)
+AND m.id_artigo = toInteger(row.id_artigo)
+CREATE (co)-[de:DE {quantidade: toInteger(row.quantidade)}]->(m)
+RETURN co, de, m
+
+// Criar livros
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:/teste/livro.csv" AS row
+CREATE (:Livro {id_artigo: toInteger(row.id_artigo), titulo: row.titulo, preco: toFloat(row.preco), ano: toInteger(row.ano),classificacao: toInteger(row.classificacao), autor: row.autor, genero: row.genero, editora: row.editora, n_paginas: toInteger(row.n_paginas)});
+
+// compra de x livros
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:/teste/compra_de_x_artigos.csv" AS row
+MATCH (co:Compra),(l:Livro)
+WHERE co.id_compra = toInteger(row.id_compra)
+AND l.id_artigo = toInteger(row.id_artigo)
+CREATE (co)-[de:DE {quantidade: toInteger(row.quantidade)}]->(l)
+RETURN co, de, l
+
+// Criar filmes
+//USING PERIODIC COMMIT
+//LOAD CSV WITH HEADERS FROM "file:/teste/filme.csv" AS row
+//CREATE (:Filme {id_artigo: toInteger(row.id_artigo), titulo: row.titulo, preco: toFloat(row.preco), ano: toInteger(row.ano),classificacao: toInteger(row.classificacao), etc});
+
+// compra de x filmes
+//USING PERIODIC COMMIT
+//LOAD CSV WITH HEADERS FROM "file:/teste/compra_de_x_artigos.csv" AS row
+//MATCH (co:Compra),(f:Filme)
+//WHERE co.id_compra = toInteger(row.id_compra)
+//AND f.id_artigo = toInteger(row.id_artigo)
+//CREATE (co)-[de:DE {quantidade: toInteger(row.quantidade)}]->(f)
+//RETURN co, de, f
+
+// criar lojas
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:/teste/lojas.csv" AS row
+CREATE (:Loja {loja: row.loja, distrito: row.distrito});
+
+// jogo tem x stock na loja
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "file:/teste/stock.csv" AS row
-CREATE (:Stock {id_artigo: toInteger(row.id_artigo), loja: row.loja, qtd_disponivel: toInteger(row.qtd_disponivel), distrito: row.distrito});
+MATCH (j:Jogo),(lo:Loja)
+WHERE j.id_artigo = toInteger(row.id_artigo)
+AND lo.loja = row.loja
+CREATE (j)-[t:TEM_STOCK {qtd_disponivel: toInteger(row.qtd_disponivel)}]->(lo)
+RETURN j, t, lo
 
-// -----------------------------------------
-
-CREATE INDEX ON :Cliente(id_cliente);
-CREATE INDEX ON :Livro(id_artigo);
-CREATE INDEX ON :Jogo(id_artigo);
-CREATE INDEX ON :Musica(id_artigo);
-//CREATE INDEX ON :Filme(id_artigo);
-CREATE INDEX ON :Stock(id_artigo);
-
-
-CREATE CONSTRAINT ON (c:Cliente) ASSERT c.id_cliente IS UNIQUE;
-CREATE CONSTRAINT ON (l:Livro) ASSERT l.id_artigo IS UNIQUE;
-CREATE CONSTRAINT ON (j:Jogo) ASSERT j.id_artigo IS UNIQUE;
-CREATE CONSTRAINT ON (m:Musica) ASSERT m.id_artigo IS UNIQUE;
-//CREATE CONSTRAINT ON (f:Filme) ASSERT f.id_artigo IS UNIQUE;
-CREATE CONSTRAINT ON (c:Compra) ASSERT c.id_compra IS UNIQUE;
-
-// -----------------------------------------
-
-USING PERIODIC COMMIT
-LOAD CSV WITH HEADERS FROM "file:/compra.csv" AS row
-MATCH (compra:Compra {id_compra: row.id_compra}),
-      (cliente:Cliente {id_cliente: row.id_cliente})
-CREATE (cliente)-[:FAZ]->(compra);
-
-MATCH (a:Artist),(b:Album)
-WHERE a.Name = "Strapping Young Lad" AND b.Name = "Heavy as a Really Heavy Thing"
-CREATE (a)-[r:RELEASED]->(b)
-
-USING PERIODIC COMMIT
-LOAD CSV WITH HEADERS FROM "file:/teste/compra.csv" AS row
-MATCH (compra:Compra {id_compra: row.id_compra})
-MATCH (livro:Livro {id_artigo: row.id_artigo})
-MERGE (compra)-[:DE]->(livro);
-
-USING PERIODIC COMMIT
-LOAD CSV WITH HEADERS FROM "file:/teste/compra.csv" AS row
-MATCH (compra:Compra {id_compra: row.id_compra})
-MATCH (jogo:Jogo {id_artigo: row.id_artigo})
-MERGE (compra)-[:DE]->(jogo);
-
-USING PERIODIC COMMIT
-LOAD CSV WITH HEADERS FROM "file:/teste/compra.csv" AS row
-MATCH (compra:Compra {id_compra: row.id_compra})
-MATCH (musica:Musica {id_artigo: row.id_artigo})
-MERGE (compra)-[:DE]->(musica);
-
+// musica tem x stock na loja
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "file:/teste/stock.csv" AS row
-MATCH (artigo:Artigo {id_artigo: row.id_artigo})
-MATCH (stock:Stock {id_artigo: row.id_artigo, loja: row.loja})
-MERGE (artigo)-[:TEM]->(stock);
+MATCH (m:Musica),(lo:Loja)
+WHERE m.id_artigo = toInteger(row.id_artigo)
+AND lo.loja = row.loja
+CREATE (m)-[t:TEM_STOCK {qtd_disponivel: toInteger(row.qtd_disponivel)}]->(lo)
+RETURN m, t, lo
+
+// livro tem x stock na loja
+USING PERIODIC COMMIT
+LOAD CSV WITH HEADERS FROM "file:/teste/stock.csv" AS row
+MATCH (l:Livro),(lo:Loja)
+WHERE l.id_artigo = toInteger(row.id_artigo)
+AND lo.loja = row.loja
+CREATE (l)-[t:TEM_STOCK {qtd_disponivel: toInteger(row.qtd_disponivel)}]->(lo)
+RETURN l, t, lo
+
+// filme tem x stock na loja
+//USING PERIODIC COMMIT
+//LOAD CSV WITH HEADERS FROM "file:/teste/stock.csv" AS row
+//MATCH (f:Filme),(lo:Loja)
+//WHERE f.id_artigo = toInteger(row.id_artigo)
+//AND lo.loja = row.loja
+//CREATE (f)-[t:TEM_STOCK {qtd_disponivel: toInteger(row.qtd_disponivel)}]->(lo)
+//RETURN f, t, lo
