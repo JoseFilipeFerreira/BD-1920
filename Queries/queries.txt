@@ -11,7 +11,7 @@
 20. Consultar a disponibilidade de um artigo em todas as lojas
 21. Consultar livros de um autor específico
 22. Verificar que jogos o cliente tem idade mínima para comprar
-23. Verificar que quantidade e montante um autor específico vendeu
+23. Análise das vendas de cada autor (quantidade e montante totais)
 24. Consultar quanto foi vendido numa loja específica num ano específico
 25. Consultar quanto foi vendido em cada mês num ano específico
 26. Verificar a existência de stock de um certo artigo no distrito de um certo cliente
