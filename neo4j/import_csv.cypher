@@ -13,7 +13,7 @@ CREATE (:Compra {id_compra: toInteger(row.id_compra), montante: toFloat(row.mont
 MATCH (co:Compra),(cl:Cliente)
 WHERE co.id_cliente = cl.id_cliente
 CREATE (cl)-[f:FAZ]->(co)
-RETURN cl, f, co
+RETURN cl, f, co;
 
 // Criar jogos
 USING PERIODIC COMMIT
@@ -27,7 +27,7 @@ MATCH (co:Compra),(j:Jogo)
 WHERE co.id_compra = toInteger(row.id_compra)
 AND j.id_artigo = toInteger(row.id_artigo)
 CREATE (co)-[de:DE {quantidade: toInteger(row.quantidade)}]->(j)
-RETURN co, de, j
+RETURN co, de, j;
 
 // Criar musicas
 USING PERIODIC COMMIT
@@ -41,7 +41,7 @@ MATCH (co:Compra),(m:Musica)
 WHERE co.id_compra = toInteger(row.id_compra)
 AND m.id_artigo = toInteger(row.id_artigo)
 CREATE (co)-[de:DE {quantidade: toInteger(row.quantidade)}]->(m)
-RETURN co, de, m
+RETURN co, de, m;
 
 // Criar livros
 USING PERIODIC COMMIT
@@ -55,7 +55,7 @@ MATCH (co:Compra),(l:Livro)
 WHERE co.id_compra = toInteger(row.id_compra)
 AND l.id_artigo = toInteger(row.id_artigo)
 CREATE (co)-[de:DE {quantidade: toInteger(row.quantidade)}]->(l)
-RETURN co, de, l
+RETURN co, de, l;
 
 // Criar filmes
 //USING PERIODIC COMMIT
@@ -69,11 +69,7 @@ RETURN co, de, l
 //WHERE co.id_compra = toInteger(row.id_compra)
 //AND f.id_artigo = toInteger(row.id_artigo)
 //CREATE (co)-[de:DE {quantidade: toInteger(row.quantidade)}]->(f)
-//RETURN co, de, f
-
-// ---------------------------------------------
-// -----------       VERSAO 1      -------------
-// ---------------------------------------------
+//RETURN co, de, f;
 
 // criar lojas
 USING PERIODIC COMMIT
@@ -87,7 +83,7 @@ MATCH (j:Jogo),(lo:Loja)
 WHERE j.id_artigo = toInteger(row.id_artigo)
 AND lo.loja = row.loja
 CREATE (j)-[t:TEM_STOCK {qtd_disponivel: toInteger(row.qtd_disponivel)}]->(lo)
-RETURN j, t, lo
+RETURN j, t, lo;
 
 // musica tem x stock na loja
 USING PERIODIC COMMIT
@@ -96,7 +92,7 @@ MATCH (m:Musica),(lo:Loja)
 WHERE m.id_artigo = toInteger(row.id_artigo)
 AND lo.loja = row.loja
 CREATE (m)-[t:TEM_STOCK {qtd_disponivel: toInteger(row.qtd_disponivel)}]->(lo)
-RETURN m, t, lo
+RETURN m, t, lo;
 
 // livro tem x stock na loja
 USING PERIODIC COMMIT
@@ -105,7 +101,7 @@ MATCH (l:Livro),(lo:Loja)
 WHERE l.id_artigo = toInteger(row.id_artigo)
 AND lo.loja = row.loja
 CREATE (l)-[t:TEM_STOCK {qtd_disponivel: toInteger(row.qtd_disponivel)}]->(lo)
-RETURN l, t, lo
+RETURN l, t, lo;
 
 // filme tem x stock na loja
 //USING PERIODIC COMMIT
@@ -114,16 +110,4 @@ RETURN l, t, lo
 //WHERE f.id_artigo = toInteger(row.id_artigo)
 //AND lo.loja = row.loja
 //CREATE (f)-[t:TEM_STOCK {qtd_disponivel: toInteger(row.qtd_disponivel)}]->(lo)
-//RETURN f, t, lo
-
-// ---------------------------------------------
-// -----------       VERSAO 2      -------------
-// ---------------------------------------------
-
-// criar stock artigo
-USING PERIODIC COMMIT
-LOAD CSV WITH HEADERS FROM "file:/teste/lojas.csv" AS row
-CREATE (: {loja: row.loja, distrito: row.distrito});
-
-tem stock no distrito
-(:Stock)-[:TEM_STOCK {quantidade e loja}]->(:Distrito)
+//RETURN f, t, lo;
