@@ -44,6 +44,18 @@ order by a.titulo ASC;
 
 select * from musicas_titulo_asc;
 
+-- 18. Obter o top 3 artigos mais vendidos
+drop view if exists top_artigos;
+create view top_artigos as
+	select a.id_artigo, titulo, tipo, preco, sum(co.montante) as `montante total` from Artigo a
+	join Compra_de_X_Artigos cx on cx.id_artigo = a.id_artigo
+	join Compra co on co.id_compra = cx.id_compra
+	group by a.id_artigo
+	order by sum(co.montante) DESC
+	limit 3;
+
+select * from top_artigos;
+
 -- 23. quanto cada autor já vendeu no total (quantidade e montante total) ordenado por lucro total e qtd decrescente
 drop view if exists top_vendas_autor;
 create view top_vendas_autor as
