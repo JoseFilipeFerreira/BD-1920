@@ -72,5 +72,9 @@ Aviso inicial: (muda este nome idk)
 
 27. Fazer análise das vendas de um ano (loja que lucrou mais: qual o lucro e a média entre lojas desse ano)
 
-    Para fazer esta análise, o processo foi um pouco mais complexo. Foram selecionados através da entidade Compra, todos os anos em que existiram compras. Foi feito um loop que percorre esta lista, e para cada um dos anos, inserimos numa tabela auxiliar 'Análise Anual' os resultados do seguinte:
-    - 
+    Para fazer esta análise, foi um pouco mais complexo. Foram selecionados através da entidade Compra, todos os anos em que foram feitas compras. Foi feito um loop que percorre esta lista, e para cada um dos anos, inserimos numa tabela auxiliar 'Análise Anual' os resultados do seguinte processo:
+        1. Descobrir o montante total vendido por cada loja nesse ano, num select chamado 'linha', através da entidade Compra.
+        2. Através do resultado linha, selecionamos ,para esse ano, o valor máximo vendido, assim como a média dos valores obtidos. Chamamos a este select 'results'.
+        3. Através da entidade Compra, e selecionando apenas o ano a ser verificado de momento, obtemos o montante vendido em cada loja. É nessário fazer este passo, mesmo sendo repetido, para conseguirmos obter a loja que obteve o resultado em questão. Chamamos este select 'get_loja'.
+        4. No fim, juntamos tudo, através da junção do 'results' com o 'get_loja', apenas nos valores em que o montante total obtido em cada um é igual. Assim, obtemos o nosso resultado para um ano, e inserimos na tabela 'Análise Anual'.
+    No fim do processo, quando o loop acaba e já tendo mostrado o resultado, a tabela é apagada, uma vez que já não é necessária.

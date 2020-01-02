@@ -236,14 +236,16 @@ begin
 			  from (select loja, sum(montante) as total
 					from Compra
 					where year(data_hora) = ano
-					group by loja) as linha
-		) as results
-		join (select loja as l, year(data_hora) as ano, sum(montante) as total
+					group by loja
+					) as linha
+			  ) as results
+		join (select loja as l, ano, sum(montante) as total
 			  from Compra
+              where ano = year(data_hora)
 			  group by year(data_hora), loja
-			  order by year(data_hora)
-		) as get_loja
-		on results.x = get_loja.total);
+			 ) as get_loja
+		on results.x = get_loja.total
+		);
     
     end loop;
     close curs1;
