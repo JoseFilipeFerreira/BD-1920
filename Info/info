@@ -1,13 +1,3 @@
-/* Criar função idade (dada pelos docentes da UC) */
-Use FNAC;
-SET GLOBAL log_bin_trust_function_creators = 1;
-DELIMITER //
-CREATE FUNCTION `idade` (dta date) RETURNS INT
-BEGIN
-RETURN TIMESTAMPDIFF(YEAR, dta, CURDATE());
-END //
-DELIMITER ;
-
 -- formato DATE: '2016-01-23'
 
 -- Regex Tester:
