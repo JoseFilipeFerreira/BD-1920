@@ -1,7 +1,3 @@
-Exemplo: Qual a atividade fitness mais frequentada por um determinado aluno?
-
-    Para obter a informação necessária para a resposta, é fundamental recorrer às entidades Aluno, Plano, e Atividade Fitness. Tendo em conta o relacionamento entre o Aluno e o Plano, é possível ter acesso a todos os planos realizados pelo aluno. Através do relacionamento entre o Plano e a Atividade Fitness, obtemos o número de aula de cada atividade. Assim, é possível determinar qual a mais frequentada.
-
 Aviso inicial: (muda este nome idk)
 
     Para facilitar o teste das queries, todas foram feitas no formato de procedure (ou de view nas que pareceram uma melhor opção).
@@ -70,7 +66,7 @@ Aviso inicial: (muda este nome idk)
 
     Recebendo o id de um cliente e o id de um artigo, queremos verificar a existência de stock desse artigo no distrito do cliente em questão. Para isto, recorremos às entidades Cliente e Stock. Estes não têm um relacionamento direto entre si, no entanto, este também não é necessário. Como são recebidos o id do cliente, e o id do artigo a procurar, isto é suficiente para descobrirmos o distrito do cliente, e procurar o stock do artigo dado apenas nas lojas desse distrito.
 
-27. Fazer análise das vendas de um ano (loja que lucrou mais: qual o lucro e a média entre lojas desse ano)
+27. Fazer análise das vendas de cada ano (loja que lucrou mais: qual o lucro e a média entre lojas de cada ano)
 
     Para fazer esta análise, foi um pouco mais complexo. Foram selecionados através da entidade Compra, todos os anos em que foram feitas compras. Foi feito um loop que percorre esta lista, e para cada um dos anos, inserimos numa tabela auxiliar 'Análise Anual' os resultados do seguinte processo:
         1. Descobrir o montante total vendido por cada loja nesse ano, num select chamado 'linha', através da entidade Compra.

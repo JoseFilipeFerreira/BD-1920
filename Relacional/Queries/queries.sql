@@ -202,7 +202,7 @@ DELIMITER ;
 
 call stock_near_me(11,1);
 
--- 27. Fazer análise das vendas de um ano (loja que lucrou mais: qual o lucro e a média entre lojas desse ano)
+-- 27. Fazer análise das vendas de cada ano (loja que lucrou mais: qual o lucro e a média entre lojas de cada ano)
 -- por cada ano:
 -- que loja lucrou mais?
 -- quanto lucro?

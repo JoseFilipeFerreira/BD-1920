@@ -2,7 +2,7 @@
 // Criar clientes
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "file:/cliente.csv" AS row
-CREATE (:Cliente {id_cliente: toInteger(row.id_cliente), nome: row.nome, data_nascimento: row.data_nascimento, data_subscricao: row.data_subscricao, email: row.email, telemovel: row.telemovel, distrito: row.distrito});
+CREATE (:Cliente {id_cliente: toInteger(row.id_cliente), nome: row.nome, data_nascimento: row.data_nascimento, data_subscricao: row.data_subscricao, email: row.email, telemovel: toInteger(row.telemovel), distrito: row.distrito});
 
 // Criar compras
 USING PERIODIC COMMIT
@@ -18,7 +18,7 @@ RETURN cl, f, co;
 // Criar jogos
 USING PERIODIC COMMIT
 LOAD CSV WITH HEADERS FROM "file:/jogo.csv" AS row
-CREATE (:Jogo {id_artigo: toInteger(row.id_artigo), titulo: row.titulo, preco: toFloat(row.preco), ano: toInteger(row.ano),classificacao: toInteger(row.classificacao), plataforma: row.plataforma, idade_min: row.idade_min, publisher: row.publisher, n_jogadores_max: row.n_jogadores_max, genero: row.genero});
+CREATE (:Jogo {id_artigo: toInteger(row.id_artigo), titulo: row.titulo, preco: toFloat(row.preco), ano: toInteger(row.ano),classificacao: toInteger(row.classificacao), plataforma: row.plataforma, idade_min: toInteger(row.idade_min), publisher: row.publisher, n_jogadores_max: toInteger(row.n_jogadores_max), genero: row.genero});
 
 // compra de x jogos
 USING PERIODIC COMMIT

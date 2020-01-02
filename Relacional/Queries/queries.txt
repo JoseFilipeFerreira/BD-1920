@@ -15,4 +15,4 @@
 24. Consultar quanto foi vendido numa loja específica num ano específico
 25. Consultar quanto foi vendido em cada mês num ano específico
 26. Verificar a existência de stock de um certo artigo no distrito de um certo cliente
-27. Fazer análise das vendas de um ano (loja que lucrou mais: qual o lucro e a média entre lojas desse ano)
+27. Fazer análise das vendas de cada ano (loja que lucrou mais: qual o lucro e a média entre lojas de cada ano)
