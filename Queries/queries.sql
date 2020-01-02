@@ -114,7 +114,7 @@ DELIMITER ;
 
 call top_artigos_tipo('Livro');
 
--- 20.Consultar a disponibilidade de um artigo em todas as lojas
+-- 20. Consultar a disponibilidade de um artigo em todas as lojas
 drop procedure if exists verifica_stock;
 DELIMITER //
 create procedure verifica_stock(in id int)

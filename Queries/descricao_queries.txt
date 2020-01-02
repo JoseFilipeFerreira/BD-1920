@@ -44,15 +44,15 @@ Aviso inicial: (muda este nome idk)
 
 20. Consultar a disponibilidade de um artigo em todas as lojas
 
-
+    Através da entidade Stock obtemos a quantidade disponível do artigo especificado em cada loja.
 
 21. Consultar livros de um autor específico
 
-
+    Recorremos às entidades Artigo e Livro. Através do relacionamento entre estes, conseguimos obter todas as informações que precisamos de mostrar ao utilizador na sua pesquisa, como o título, preço, género, entre outras. Selecionamos todos os livros que tenham como autor o especificado no input.
 
 22. Verificar que jogos o cliente tem idade mínima para comprar
 
-
+    Damos uso à entidade Cliente, assim como à view jogos_titulo_asc (que nos mostra todas as informações sobre os jogos e as suas características de artigo). Através do Cliente, descobrimos a sua idade, e verificamos quais os jogos apresentados em jogos_titulo_asc que tenham idade mínima permitida superior à idade do cliente dado.
 
 23. Análise das vendas de cada autor (quantidade e montante totais)
 
