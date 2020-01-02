@@ -16,7 +16,8 @@ drop procedure if exists clientes_distrito;
 DELIMITER //
 create procedure clientes_distrito(in dist varchar(45))
 begin
-	select * from Cliente where distrito = dist;
+	select * from Cliente
+	where distrito = dist;
 end //
 DELIMITER ;
 
@@ -27,7 +28,9 @@ drop procedure if exists clientes_por_distrito;
 DELIMITER //
 create procedure clientes_por_distrito()
 begin
-	select distrito, count(id_cliente) from Cliente group by distrito;
+	select distrito, count(id_cliente)
+	from Cliente
+	group by distrito;
 end //
 DELIMITER ;
 
