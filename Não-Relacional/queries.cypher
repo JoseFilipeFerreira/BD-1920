@@ -109,3 +109,6 @@ MATCH (c:Cliente{id_cliente:1}),(x{id_artigo: 1})-[t:TEM_STOCK]-(l:Loja)
 WHERE c.distrito = l.distrito
 RETURN x, t.qtd_disponivel, l;
 
+// 27. Fazer análise das vendas de cada ano (loja que lucrou mais: qual o lucro e a média entre lojas de cada ano)
+
+// ?
