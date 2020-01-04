@@ -13,10 +13,10 @@ RETURN c.distrito, count(c);
 
 // 14. Consultar os artigos por tipo
 
-MATCH (f:Filme);
-MATCH (l:Livro);
-MATCH (j:Jogo);
-MATCH (m:Musica);
+MATCH (f:Filme) RETURN f;
+MATCH (l:Livro) RETURN l;
+MATCH (j:Jogo) RETURN j;
+MATCH (m:Musica) RETURN m;
 
 // 15. Consultar os artigos que não têm stock disponível
 
