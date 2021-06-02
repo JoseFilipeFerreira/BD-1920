@@ -1,4 +1,4 @@
-# BD-1920
+# FNAC
 FNAC-like database developed in SQL and NoSQL (Databases assignement)
 
 ## Authors
