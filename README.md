@@ -1,5 +1,5 @@
 # BD-1920
-(BD assignement)
+FNAC-like database developed in SQL and NoSQL (Databases assignement)
 
 ## Authors
 
@@ -11,7 +11,3 @@
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-
-
-
